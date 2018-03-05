@@ -29,9 +29,9 @@ Visually, MyEtherWallet does leave something to be desired. The page is a bit bu
 
 ### Security
 
-MEW leaves security in your hands. The wallet is only a tool which connects to the Ethereum network, it does not store private keys. MEW uses javascript code to generate and store private keys on your computer, as opposed to online wallets which generate and store your private keys on their servers.
+MyEtherWallet leaves security completely in your hands. The wallet is only a tool which connects to the Ethereum network and performs some useful tasks. Unlike most wallets, it does not store private keys. Instead MEW uses javascript code to generate and store private keys on your computer.
 
-This means that if your computer is compromised your keys could be stolen. That is why it's [recommended](https://myetherwallet.github.io/knowledge-base/hardware-wallets/hardware-wallet-recommendations.html) to use a hardware wallet in combination with MEW.
+The positive side of this is that your sensitive information doesn't reside on web servers which become targets for hackers. On the other hand, if your computer is compromised your keys could be stolen. That is why it's [recommended](https://myetherwallet.github.io/knowledge-base/hardware-wallets/hardware-wallet-recommendations.html) to use a hardware wallet in combination with MEW.
 
 ### Unique Features
 
