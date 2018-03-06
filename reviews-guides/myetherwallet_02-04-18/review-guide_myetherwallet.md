@@ -19,13 +19,17 @@ This review of MyEtherWallet will cover:
 
 MyEtherWallet's main benefit is its ease of use. With MEW you can create a new wallet and be interacting with the Ethereum network within minutes. MEW runs in a web browser and uses very few resources of your computer.
 
-As opposed to most wallet solutions, MEW does not require downloading blockchain data. MEW's small footprint and usability has made it one of the most popular ways to use ETH and tokens.
+As opposed to other wallet solutions, MEW does not require downloading blockchain data. Storing the entire blockchain requires over 100GB of disk space and can take weeks to download. According to [some reports](https://ethereum.stackexchange.com/a/826), consumer grade hardware isn't even capable of downloading and storing the entire Ethereum chain at this point.
+
+The fact that MEW has a small footprint, it is quick to start using, and gives the user so many tools has made it one of the most popular ways to store and use ETH and tokens.
 
 ### Aesthetics
 
-Visually, MyEtherWallet does leave something to be desired. The page is a bit busy with a red warning at the top which doesn't ever go away. Although, after you use the wallet a few times you almost don't even notice the aesthetic shortcomings.
+MyEtherWallet's primary objective is not design, and at first you really notice it. The first impression is a busy page with a red warning at the top which doesn't ever go away.
 
 ![aesthetic pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_aesthetic_cropped.png)
+
+After using the wallet a few times you don't notice the design shortcomings as much. Once you become familiar with the wallet you'll find that the features outshine the style.
 
 ### Security
 
@@ -35,11 +39,11 @@ The positive side of this is that your sensitive information doesn't reside on w
 
 ### Unique Features
 
-You can get an idea of how much this wallet can do by taking a look at the navigation bar.
+MyEtherWallet offers many features that you won't find in other wallets. You can get an idea of how much this wallet can do by taking a look at the navigation bar.
 
 ![unique features pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_unique-features_cropped.png)
 
-Some of the more notable features are: swapping between BTC and ETH, creating and interacting with smart contracts, registering with the Ethereum Name Service (ENS), and selling registered domains.
+A few of the most useful and powerful features are: swapping between Bitcoin (BTC) and Ether (ETH), creating and interacting with smart contracts, registering with the Ethereum Name Service (ENS), and selling registered domains. These types of services usually require visiting a third parties website. Achieving this all within a light wallet is pretty rare.
 
 ## MyEtherWallet User Guide
 
@@ -49,7 +53,7 @@ In a web browser, go to https://myetherwallet.com. You'll have to click through 
 
 ![firstrun pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_firstrun_cropped.png)
 
-After the pop-ups, the first page your presented with is the `New Wallet` page. Here you set a password and click the `Create New Wallet` button. Always keep a backup of your password.
+After the pop-ups, the first page you're presented with is the `New Wallet` page. Here you set a password and click the `Create New Wallet` button. Always keep a backup of your password.
 
 ![new wallet button pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_new-wallet_cropped.png)
 
@@ -79,7 +83,7 @@ When you are ready to print, close this tab and you will be see your print optio
 
 ### 4. Access your wallet.
 
-Now that you have secured two backup types, it's time to test that you can successfully unlock your wallet with them. The next page your brought to will give you some options for unlocking your wallet. You may select `Keystore File (UTC / JSON)` or `Private Key` since you have both.
+Now that you have secured two backup types, it's time to test that you can successfully unlock your wallet with them. The next page your brought to will give you some options for unlocking your wallet. You may select `Keystore / JSON File` or `Private Key` since you have both.
 
 If you choose to use the keystore file, you'll need the file and your password. Once you have selected your keystore file and entered your password you can click the `Unlock` button.
 
