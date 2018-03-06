@@ -119,3 +119,7 @@ At this point you'll be brought back to the send page where you will see a pop-u
 
 
 ## MyEtherWallet Review Summary
+
+Since its release in 2015, MyEtherWallet has become one of the most popular ways to use ETH, ETC, and tokens. You don't have to download tons of data or wait possibly weeks to start using the wallet. Although the interface can be a little cluttered, you will easily see past that once you start using it.
+
+MEW has a low barrier to entry, making it a great introduction point to Ethereum. The robust tool set, and the fact that it can be used in combination with a hardware wallet makes MEW an attractive choice for newcomers and veterans alike.
