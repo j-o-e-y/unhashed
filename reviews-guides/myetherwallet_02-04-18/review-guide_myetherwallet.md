@@ -120,6 +120,6 @@ At this point you'll be brought back to the send page where you will see a pop-u
 
 ## MyEtherWallet Review Summary
 
-Since its release in 2015, MyEtherWallet has become one of the most popular ways to use ETH, ETC, and tokens. You don't have to download tons of data or wait possibly weeks to start using the wallet. Although the interface can be a little cluttered, you will easily see past that once you start using it.
+In 3 years MyEtherWallet has become one of the most popular ways to use ETH, ETC, and tokens. You don't have to download a ton of data and you can start using the wallet almost immediately. Although the interface can be a little cluttered at first, you will easily see past that once you start using it.
 
-MEW has a low barrier to entry, making it a great introduction point to Ethereum. The robust tool set, and the fact that it can be used in combination with a hardware wallet makes MyEtherWallet an attractive choice for newcomers and veterans alike.
+MEW has a low barrier to entry, all you need is a web browser. As a matter of fact, you can even use it [offline](https://myetherwallet.github.io/knowledge-base/offline/running-myetherwallet-locally.html) or as [cold storage](https://myetherwallet.github.io/knowledge-base/offline/ethereum-cold-storage-with-myetherwallet.html). The robust tool set, and the fact that it can be used in combination with hardware wallets makes MyEtherWallet an attractive choice for both newcomers and veterans alike.
