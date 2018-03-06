@@ -1,8 +1,8 @@
 # MyEtherWallet Review and User-Guide
 
-MyEtherWallet (MEW) is a browser tool for receiving, sending, and storing Ethereum (ETH), Ethereum Classic (ETC), and other [ERC-20](https://en.wikipedia.org/wiki/ERC20) tokens. Originally released in 2015, MEW is open source, free, and in active development on [Github](https://github.com/kvhnuke/etherwallet).
+MyEtherWallet (MEW) is a browser tool for interacting with the Ethereum network. You can perform a range of procedures with MEW including receiving, sending, and storing Ether (ETH), Ether Classic (ETC), and other [ERC-20](https://en.wikipedia.org/wiki/ERC20) tokens. Originally released in 2015, MEW is open source, free, and in active development on [Github](https://github.com/kvhnuke/etherwallet).
 
-MEW provides users with a light weight method of interacting with the Ethereum blockchain. The benefits of MEW are that you don't have to download or store the entire blockchain, all of your private information is generated and stored on your computer, and MEW can be used in combination with [hardware wallets](https://unhashed.com/best-bitcoin-ethereum-altcoin-wallet-reviews/#hardware) for added security.
+MEW provides users with a light weight method of communicating with the Ethereum blockchain. The benefits of MEW are that you don't have to download or store the entire blockchain, all of your private information is generated and stored on your computer, and MEW can be used in combination with [hardware wallets](https://unhashed.com/best-bitcoin-ethereum-altcoin-wallet-reviews/#hardware) for added security.
 
 This review of MyEtherWallet will cover:
 
@@ -43,7 +43,7 @@ MyEtherWallet offers many features that you won't find in other wallets. You can
 
 ![unique features pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_unique-features_cropped.png)
 
-A few of the most useful and powerful features are: swapping between Bitcoin (BTC) and Ether (ETH), creating and interacting with smart contracts, registering with the Ethereum Name Service (ENS), and selling registered domains. These types of services usually require visiting a third parties website. Achieving this all within a light wallet is pretty rare.
+A few of the most useful and powerful features are: swapping between Bitcoin (BTC) and Ether (ETH), creating and interacting with smart contracts, registering with the Ethereum Name Service (ENS), and selling registered domains. These types of services usually require visiting an external website. Achieving this all within a light wallet is pretty rare.
 
 ## MyEtherWallet User Guide
 
@@ -99,6 +99,23 @@ After successfully unlocking your wallet you will be able to scroll down to wher
 
 ### 5. Sending Ether.
 
-The next logical step after receiving some Ether to your new wallet is probably spending it.
+To send Ether to another address click on `Send Ether & Tokens` in the navigation bar. You'll be asked to unlock your wallet again, you can use either your keystore file or private key.
+
+Now you can enter the details of your transaction. You'll need to enter the recipients address and the amount to send. `Gas Limit` is the transaction fee, and should remain default.
+
+![send details pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-addramt_cropped.png)
+
+Review the details and click the `Generate Transaction` button. You'll be shown what the completed transaction looks like before it's broadcast to the network. When you're ready click the `Send Transaction` button.
+
+![send pushtx](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx_cropped.png)
+
+This will be your last chance to review the transaction details and be sure you want to broadcast it. Once a transaction is broadcast it is irreversible. When you are positive about the details you can click the `Yes, I am sure! Make transaction.` button.
+
+![send pushtx verify](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx-verify_cropped.png)
+
+At this point you'll be brought back to the send page where you will see a pop-up explaining how to track your payment. Depending on network congestion, the verification time of your transaction can vary. Click on the links in the pop-up to find out details about your transaction verification.
+
+![send pushtx success](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx-success_cropped.png)
+
 
 ## MyEtherWallet Review Summary
