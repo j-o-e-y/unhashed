@@ -21,7 +21,7 @@ The Edge team has given strong attention to user friendliness in their wallet. T
 
 As soon as you log in the first time you are ready to begin receiving Bitcoin and Ether. Once you have some of any cryptocurrency in the wallet, you can easily send or swap it for any other supported coin or token using their built-in exchange feature.
 
-![edge wallet main page](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_main-page_cropped.png)
+![edge wallet main page](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_main-page_croppedx400.png)
 
 ### User Interface
 
@@ -35,7 +35,7 @@ From the main wallet page you can backup your wallets seeds, add new cryptocurre
 
 Since Edge was only released recently, there is currently only native support for five cryptocurrencies and two ERC20 tokens.
 
-![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge-wallet_supported-cryptos_cropped.png)
+![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge-wallet_supported-cryptos_croppedx200.png)
 
 There is a way to [add more tokens](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc) easily from within the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try [Jaxx wallet](https://unhashed.com/cryptocurrency-wallet-review/jaxx/) on a mobile device and PC, or the [Ledger Nano S](https://unhashed.com/cryptocurrency-wallet-review/ledger-nano-s/) hardware wallet.
 
