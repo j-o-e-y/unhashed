@@ -29,7 +29,7 @@ The presentation of the wallet is sleek, simple, and easy to understand. There a
 
 From the main wallet page you can backup your wallets seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the UI is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet to swap between currencies with almost as little effort as sending a normal transaction.
 
-![edge wallet exchange step 1 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step1_cropped.png) ![edge wallet exchange step 2 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step2_cropped.png)
+![edge wallet exchange step 1 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step1_croppedx400.png) ![edge wallet exchange step 2 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step2_croppedx400.png)
 
 ### Supported Currencies
 
