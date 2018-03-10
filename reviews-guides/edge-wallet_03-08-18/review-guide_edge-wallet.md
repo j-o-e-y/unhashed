@@ -47,4 +47,13 @@ There is much more to be worried about than just data breaches. What if you unlo
 
 ## Edge Wallet User Guide
 
+### 1. Install the app, create account.
+
+Edge wallet can be installed either from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app) or [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8) directly on your mobile device.
+
+On the first run of the app you will need to create an account. These account details encrypt your wallet info on Edge servers in case you lose or break your device. Be sure to back them up safely. You'll need a username, password, and 4 digit pin.
+
+![edge wallet firstrun pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-signup-allsteps_croppedx1100.png)
+
 ## Summary
+
