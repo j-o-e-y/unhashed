@@ -29,13 +29,13 @@ The presentation of the wallet is sleek, simple, and easy to understand. There a
 
 From the main wallet page you can backup your wallets seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the UI is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet to swap between currencies with almost as little effort as sending a normal transaction.
 
-![edge wallet exchange step 1 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step1_cropped.png) ![edge wallet exchange step 2 pic](reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step2_cropped.png)
+![edge wallet exchange step 1 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step1_cropped.png) ![edge wallet exchange step 2 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step2_cropped.png)
 
 ### Supported Currencies
 
 Since Edge was only released recently, there is currently only native support for five cryptocurrencies and two ERC20 tokens.
 
-![edge supported cryptos pic](reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge-wallet_supported-cryptos_cropped.png)
+![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge-wallet_supported-cryptos_cropped.png)
 
 There is a way to [add more tokens](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc) easily from within the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try [Jaxx wallet](https://unhashed.com/cryptocurrency-wallet-review/jaxx/) on a mobile device and PC, or the [Ledger Nano S](https://unhashed.com/cryptocurrency-wallet-review/ledger-nano-s/) hardware wallet.
 
