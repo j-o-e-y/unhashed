@@ -2,7 +2,7 @@
 
 Edge is a mobile wallet for Android and IOS devices created by the Airbitz team. Edge supports receiving, sending, storing, and exchanging between different cryptocurrencies, as well as ERC20 tokens.
 
-Since 2014 the Edge development team have been on the forefront of user friendly security solutions. Beginning with a Bitcoin wallet, they have since grown to creating a new security model dubbed "[Edge Security](https://edgesecure.co/about/)" and improving the wallet to support multiple currencies including Bitcoin (BTC), Ether (ETH), and Litecoin (LTC).
+Since 2014 the Edge development team has been working on user friendly security solutions. Beginning with a Bitcoin wallet, they have since grown to creating a new security model dubbed "[Edge Security](https://edgesecure.co/about/)" and improving the wallet to support multiple currencies including Bitcoin (BTC), Ether (ETH), and Litecoin (LTC).
 
 This review of Edge wallet will cover:
 
@@ -27,13 +27,13 @@ As soon as you log in the first time you are ready to begin receiving Bitcoin an
 
 The presentation of the wallet is sleek, simple, and easily navigated. There are just four main screens: "Wallets", "Request", "Send", and "Exchange". This keeps the wallets flow intuitive, instead of having to tap through endless pages trying to find where you want to be.
 
-From the main wallet page you can backup your wallets seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the UI is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet to swap between currencies with almost as little effort as sending a normal transaction.
+From the main wallet page you can backup your seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the app is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet users to swap between currencies in just two simple steps.
 
 ![edge wallet exchange steps pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-both-steps.png)
 
 ### Supported Currencies
 
-Since Edge was just released February 15th of this year, there is currently only native support for five cryptocurrencies and two ERC20 tokens.
+Edge was just released on February 15th of this year, therefore the wallet currently only has native support for five cryptocurrencies and two tokens.
 
 ![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-supported-cryptos.png)
 
@@ -49,13 +49,13 @@ There is much more to be worried about than just data breaches. What if you unlo
 
 ### 1. Install the app, create account.
 
-Edge wallet can be installed either from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app), [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8), or directly from the [Edge site](https://edgesecure.co).
+Edge wallet can be installed from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app), [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8), or directly from the [Edge site](https://edgesecure.co).
 
 ![edge site downloads pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-downloads.png)
 
 On the first run of the app you will need to create an account. These account details encrypt your wallet info on Edge servers in case you lose or break your device. Be sure to back them up safely. You'll need a username, password, and 4 digit pin.
 
-![edge wallet firstrun pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-signup-allsteps_croppedx1100.png)
+![edge wallet firstrun pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-create-account.png)
 
 ## Summary
 
