@@ -83,7 +83,7 @@ To send coins, begin by tapping the "Send" tab. You will immediately be brought 
 
 ![edge wallet send address pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send.png)
 
-Next you will have to verify your send amount. This is also where you may adjust your miner fee, by tapping the three dots at the top left and selecting "Change Mining Fee" from the drop down menu.
+Next you will have to verify your send amount. This is also where you may adjust your miner fee, by tapping the three dots at the top right and selecting "Change Mining Fee" from the drop down menu. When you've made your desired selections you can slide to the left to confirm sending.
 
 ![edge wallet send verify pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-verify.png)
 
