@@ -41,9 +41,9 @@ You may [add any ERC20 tokens](https://blog.edgesecure.co/how-to-add-erc20-token
 
 ### Security
 
-Having only a username and password required to restore your wallet on a new device may be convenient, but it is certainly not secure for significant funds. Users tend to create easily guessed username and password combinations, and then they will use the same combos for many sites. Making [data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches) at other sites a possible security threat for Edge wallet users.
+Mobile devices are generally known for being the least secure way to store cryptocurrencies. There is not a single mobile wallet that should be trusted for large amounts or long term storage. Even [Edge themselves](https://support.edgesecure.co/support/solutions/articles/8000058679-how-much-money-is-safe-to-put-on-edge-) suggest to only use the wallet for small amounts.
 
-Mobile devices are generally known for being the least secure way to store cryptocurrencies. There really is no mobile wallet that should be trusted for large amounts or long term storage. Even [Edge themselves](https://support.edgesecure.co/support/solutions/articles/8000058679-how-much-money-is-safe-to-put-on-edge-) suggest to only use the wallet for small amounts.
+The convenience of restoring your wallet on a new device with only a username and password may seem helpful, but it is also a security problem. End users are notorious for creating easily guessed credentials, that are then used on multiple accounts across the internet. This makes [data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches) at other sites a possible security threat for Edge wallet users.
 
 If you need a strong security option, the safest choice is always a [hardware wallet](https://unhashed.com/best-bitcoin-ethereum-altcoin-wallet-reviews/#hardware).
 
@@ -57,17 +57,25 @@ Edge wallet can be installed from the [Play Store](https://play.google.com/store
 
 ### 2. Create an account.
 
-On the first run of the app you will need to create an account. These account details are used to encrypt your wallet info on Edge servers in case you lose or break your device. You will need to create a username, password, and 4 digit pin. Be sure to use a username and password that have never been used for any other account.
+On the first run of the app you will need to create an account. You will need to create a username, password, and 4 digit pin. These account details are used to encrypt your wallet info on Edge servers in case you lose or break your device. So be sure to use a username and password that have never been used for any other account.
 
 ![edge wallet firstrun pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-create-account.png)
 
-After creating your pin you are conveniently given the opportunity to backup your data. At this point you just have to verify some information and your wallet is ready to use.
+After creating your pin you are conveniently given the opportunity to backup your data. After writing down a backup of your account credentials, you just have to verify some information and your wallet is ready to use.
 
 ![edge wallet signup finish](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-signup-finish.png)
 
-### 3. Add more cryptocurrencies.
+### 3. Add other cryptocurrencies.
 
+From the main page, "Wallets", adding another cryptocurrency is easy. Tap the "+" next to "My Wallets" and a menu of supported currencies is listed. Simply tap whichever asset you would like to add. You'll be brought back to the "Wallets" page where your new currency will now be listed.
 
+![edge wallet add cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-add-cryptos.png)
+
+### 4. Receive coins.
+
+To receive coins tap "Request". The "Request" page will allow you to choose which cryptocurrency you would like to receive. You can either have the sender scan a QR code, use "Copy" to copy the address to your clipboard, or use "Share" to share the address with another app or one of your contacts via text message.
+
+![edge wallet receive pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-receive.png)
 
 ## Summary
 
