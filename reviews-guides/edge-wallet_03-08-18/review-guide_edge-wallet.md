@@ -21,23 +21,23 @@ The Edge team has given strong attention to user friendliness in their wallet. T
 
 As soon as you log in the first time you are ready to begin receiving Bitcoin and Ether. Once you have some of any cryptocurrency in the wallet, you can easily send or swap it for any other supported coin or token using their built-in exchange feature.
 
-![edge wallet main page](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_main-page_croppedx400.png)
+![edge wallet main page](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-pages.png)
 
 ### User Interface
 
-The presentation of the wallet is sleek, simple, and easy to understand. There are just four main screens: "Wallets", "Request", "Send", and "Exchange". This keeps the wallets flow intuitive, instead of having to tap through endless pages trying to find where you want to be.
+The presentation of the wallet is sleek, simple, and easily navigated. There are just four main screens: "Wallets", "Request", "Send", and "Exchange". This keeps the wallets flow intuitive, instead of having to tap through endless pages trying to find where you want to be.
 
 From the main wallet page you can backup your wallets seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the UI is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet to swap between currencies with almost as little effort as sending a normal transaction.
 
-![edge wallet exchange step 1 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step1_croppedx400.png) ![edge wallet exchange step 2 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-step2_croppedx400.png)
+![edge wallet exchange steps pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-both-steps.png)
 
 ### Supported Currencies
 
-Since Edge was only released recently, there is currently only native support for five cryptocurrencies and two ERC20 tokens.
+Since Edge was just released February 15th of this year, there is currently only native support for five cryptocurrencies and two ERC20 tokens.
 
-![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge-wallet_supported-cryptos_croppedx200.png)
+![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-supported-cryptos.png)
 
-There is a way to [add more tokens](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc) easily from within the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try [Jaxx wallet](https://unhashed.com/cryptocurrency-wallet-review/jaxx/) on a mobile device and PC, or the [Ledger Nano S](https://unhashed.com/cryptocurrency-wallet-review/ledger-nano-s/) hardware wallet.
+You may also [add other tokens](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc) easily from within the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try [Jaxx wallet](https://unhashed.com/cryptocurrency-wallet-review/jaxx/) on a mobile device and PC, or the [Ledger Nano S](https://unhashed.com/cryptocurrency-wallet-review/ledger-nano-s/) hardware wallet.
 
 ### Security
 
@@ -49,7 +49,9 @@ There is much more to be worried about than just data breaches. What if you unlo
 
 ### 1. Install the app, create account.
 
-Edge wallet can be installed either from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app) or [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8) directly on your mobile device.
+Edge wallet can be installed either from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app), [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8), or directly from the [Edge site](https://edgesecure.co).
+
+![edge site downloads pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-downloads_croppedx1100.png)
 
 On the first run of the app you will need to create an account. These account details encrypt your wallet info on Edge servers in case you lose or break your device. Be sure to back them up safely. You'll need a username, password, and 4 digit pin.
 
