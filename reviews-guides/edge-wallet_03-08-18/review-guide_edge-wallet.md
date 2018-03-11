@@ -33,29 +33,41 @@ From the main wallet page you can backup your seeds, add new cryptocurrency wall
 
 ### Supported Currencies
 
-Edge was just released on February 15th of this year, therefore the wallet currently only has native support for five cryptocurrencies and two tokens.
+Edge was just released on February 15th of this year, so the wallet only has native support for five cryptocurrencies and two tokens at this time.
 
 ![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-supported-cryptos.png)
 
-You may also [add other tokens](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc) easily from within the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try [Jaxx wallet](https://unhashed.com/cryptocurrency-wallet-review/jaxx/) on a mobile device and PC, or the [Ledger Nano S](https://unhashed.com/cryptocurrency-wallet-review/ledger-nano-s/) hardware wallet.
+You may [add any ERC20 tokens](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc) easily from within the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try Jaxx wallet for mobile devices and desktops, or the Ledger Nano S hardware wallet.
 
 ### Security
 
-Unfortunately, I came to the conclusion that Edge seems to be more concerned with providing an easy experience for the user than a secure one. Having only a username and password required to restore your wallet on a new device is scary to say the least. Users will tend to use the same username/password combination that they use for everything. Making [data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches) at other companies a treasure trove of keys to possibly unlock Edge wallets remotely.
+Having only a username and password required to restore your wallet on a new device may be convenient, but it is certainly not secure for significant funds. Users tend to create easily guessed username and password combinations, and then they will use the same combos for many sites. Making [data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches) at other sites a possible security threat for Edge wallet users.
 
-There is much more to be worried about than just data breaches. What if you unlock your wallet in public and someone watches you type in your account info, or a scorned ex knows your favorite login details? Edge wallets use of a pin to login after wallet creation limits the possibility of your account being shoulder surfed in public. Nonetheless, the list of possible ways to lose control of your username and password remains endless.
+Mobile devices are generally known for being the least secure way to store cryptocurrencies. There really is no mobile wallet that should be trusted for large amounts or long term storage. Even [Edge themselves](https://support.edgesecure.co/support/solutions/articles/8000058679-how-much-money-is-safe-to-put-on-edge-) suggest to only use the wallet for small amounts.
+
+If you need a strong security option, the safest choice is always a [hardware wallet](https://unhashed.com/best-bitcoin-ethereum-altcoin-wallet-reviews/#hardware).
 
 ## Edge Wallet User Guide
 
-### 1. Install the app, create account.
+### 1. Install the app.
 
 Edge wallet can be installed from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app), [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8), or directly from the [Edge site](https://edgesecure.co).
 
 ![edge site downloads pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-downloads.png)
 
-On the first run of the app you will need to create an account. These account details encrypt your wallet info on Edge servers in case you lose or break your device. Be sure to back them up safely. You'll need a username, password, and 4 digit pin.
+### 2. Create an account.
+
+On the first run of the app you will need to create an account. These account details are used to encrypt your wallet info on Edge servers in case you lose or break your device. You will need to create a username, password, and 4 digit pin. Be sure to use a username and password that have never been used for any other account.
 
 ![edge wallet firstrun pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-create-account.png)
+
+After creating your pin you are conveniently given the opportunity to backup your data. At this point you just have to verify some information and your wallet is ready to use.
+
+![edge wallet signup finish](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-signup-finish.png)
+
+### 3. Add more cryptocurrencies.
+
+
 
 ## Summary
 
