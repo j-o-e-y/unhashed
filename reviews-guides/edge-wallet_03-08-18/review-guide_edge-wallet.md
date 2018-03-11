@@ -73,9 +73,19 @@ From the main page, "Wallets", adding another cryptocurrency is easy. Tap the "+
 
 ### 4. Receive coins.
 
-To receive coins tap "Request". The "Request" page will allow you to choose which cryptocurrency you would like to receive. You can either have the sender scan a QR code, use "Copy" to copy the address to your clipboard, or use "Share" to share the address with another app or one of your contacts via text message.
+To receive coins, begin by tapping the "Request" tab. At the top of the page you will the wallet that is set to receive. If you want to receive in another currency, simply tap the wallet name to choose another cryptocurrency. You can either have the sender scan a QR code, use "Copy" to copy the address to your clipboard, or use "Share" to share the address with another app or one of your contacts via text message.
 
 ![edge wallet receive pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-receive.png)
+
+#### 5. Send coins.
+
+To send coins, begin by tapping the "Send" tab. You will immediately be brought to a QR code scanner. If you wish to paste an address from your clipboard, tap "Address".
+
+![edge wallet send address pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send.png)
+
+Next you will have to verify your send amount. This is also where you may adjust your miner fee, by tapping the three dots at the top left and selecting "Change Mining Fee" from the drop down menu.
+
+![edge wallet send verify pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-verify.png)
 
 ## Summary
 
