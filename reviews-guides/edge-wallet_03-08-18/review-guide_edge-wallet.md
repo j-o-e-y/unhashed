@@ -83,7 +83,7 @@ Now you have three ways to You can either have the sender scan the displayed QR 
 
 To send coins, begin by tapping "Send" on the navigation bar. You will immediately be brought to a QR code scanner using the camera of your device. If you wish to paste an address from your clipboard, tap "Address". A pop-up will appear for entering the address.
 
-![edge wallet send address pic](reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-series.png)
+![edge wallet send address pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-series.png)
 
 Next you will have to verify your send amount. This is also where you may adjust your miner fee, by tapping the three dots at the top right and selecting "Change Mining Fee" from the drop down menu. When you've made your desired selections you can slide to the left to confirm sending.
 
