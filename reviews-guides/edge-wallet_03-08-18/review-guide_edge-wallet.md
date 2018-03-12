@@ -27,9 +27,7 @@ As soon as you log in the first time you are ready to begin receiving Bitcoin an
 
 The presentation of the wallet is sleek, simple, and easily navigated. There are just four main screens: "Wallets", "Request", "Send", and "Exchange". This keeps the wallets flow intuitive, instead of having to tap through endless pages trying to find where you want to be.
 
-From the main wallet page you can backup your seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the app is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet users to swap between currencies in just two simple steps.
-
-![edge wallet exchange steps pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_exchange-both-steps.png)
+From the main wallet page you can backup your seeds, add new cryptocurrency wallets, or manage your Ethereum tokens. Another useful feature, the sending page gives you an option to adjust the miners fee. The most interesting part of the app is it's direct integration with [Shapeshift](https://info.shapeshift.io/about). This allows Edge wallet users to swap between currencies in just a few steps.
 
 ### Supported Currencies
 
@@ -81,7 +79,9 @@ Now you have three ways to You can either have the sender scan the displayed QR 
 
 ### 5. Send coins.
 
-To send coins, begin by tapping "Send" on the navigation bar. You will immediately be brought to a QR code scanner using the camera of your device. If you wish to paste an address from your clipboard, tap "Address". A pop-up will appear for entering the address.
+To send coins, begin by tapping "Send" on the navigation bar. You will immediately be brought to a QR code scanner using the camera of your device.
+
+If you wish to paste an address from your clipboard, tap "Address". A pop-up will appear for entering the address.
 
 ![edge wallet send address pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-series.png)
 
