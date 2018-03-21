@@ -56,7 +56,9 @@ As long as the reward and difficulty remain in balance, it will always be in a m
 
 Another important feature of a healthy blockchain is to remain decentralized. Which means that there is diversification in the operation of nodes. Also, it's important that there are a sufficient number of nodes storing the full historical record of every transaction, these as called "full nodes." This diversification serves a few purposes, the first of which is to keep everyone else honest. If the only holders of the historical record are the ones that collude to change it, then doing so is trivial.
 
-Another logical reason to have the blockchain distributed widely is to make it difficult to censor. You would have to get almost 100% of nodes to agree on any censorship being imposed. Without near majority you end up with two different versions of reality, with some nodes having the censored data and some having the uncensored data. These two subsets of nodes will stop communicating with each other creating a fork in the history and the coin, possibly with catastrophic effects for both sides.
+Another logical reason to have the blockchain distributed widely is to make it difficult to censor. You would have to get almost 100% of nodes to agree on any censorship being imposed. Without near majority you end up with two different versions of reality, with some nodes having the censored data and some having the uncensored data. These two subsets of nodes will stop communicating with each other creating what is called a “hard fork,” possibly with catastrophic effects for both sides.
+
+![chain fork](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_hard-fork_bitcoinorg.png)
 
 This type of fork [actually happened](https://en.wikipedia.org/wiki/Ethereum_Classic#History) with Ethereum (ETH) when the devs decided to roll back the blockchain to fix a coding error and a portion of nodes refused to follow. The nodes that refused to follow now have their own coin: Ethereum Classic (ETC).
 
