@@ -11,6 +11,7 @@ In this article I'll help you understand blockchains by exploring:
   - General Overview
 + How Is a Blockchain Secure?
   - Game Theory
+  - Mining
   - Decentralization
 + Why Use a Blockchain?
 + Summary
@@ -43,7 +44,11 @@ One of the properties that secures a blockchain is the balance between the diffi
 
 The analysis of how participants in a competitive system will act in regards to reward and punishment is referred to as game theory. Some people will say that the great invention of blockchain had little to do with cryptography or economics, but was instead a brilliant leap forward for global game theory in this interconnected world. What Satoshi did was use the inherent cost in creating electricity as the penalty and new Bitcoin as the reward. Which did two helpful things, it created and incentive to remain honest and a method by which new coins are generated.
 
+### Mining
+
 When transactions are made on any cryptocurrency network they are first spread to other nodes and stored in a group waiting to be included in a block. This group of unconfirmed transactions is referred to as the "mempool." In order for these transactions to be included in a block, a certain amount of "work" must be done. The specialized hardware that does this work are referred to as a miners, and they use a massive amount of electricity to do this.
+
+![mining map](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_beci-map.png)
 
 As long as the reward and difficulty remain in balance, it will always be in a miners best interest to confirm transactions according to the rules. By trying to break the rules, or rewrite part of the blockchain, the miners are penalized with enormous electricity costs. Even with an extreme amount of money available to anyone that does, no one has come up with an attack that is more profitable than simply following the rules.
 
