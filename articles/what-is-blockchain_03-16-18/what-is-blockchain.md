@@ -30,7 +30,7 @@ Satoshi, having learned from the mistakes of these past attempts, knew two thing
 
 A blockchain is a type of database where the data is organized into groups, called blocks. Each new block uses a cryptographic method, called hashing, to include a reference to the data in the previous block. This creates a chain in the sense that to change any data in a block would in turn change the next block, and so on down the line.
 
-![hash chain pic](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/hashchain_aantonop.png)
+![hash chain pic](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_hashchain_aantonop.png)
 
 Depending on the difficulty required to add new blocks to the chain, the fact that there is a reference to the previous block makes the chain resistant to mutation. The longer the chain becomes the more resistant it becomes to change. This makes the data on the blockchain extremely secure and reliable.
 
