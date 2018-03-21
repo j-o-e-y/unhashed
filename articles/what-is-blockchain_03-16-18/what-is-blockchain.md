@@ -2,7 +2,7 @@
 
 On January 9, 2009 Satoshi Nakamoto shared with us the invention of Bitcoin and its underlying technology, the blockchain. Now this tech that allows cryptocurrencies to exist is being tested in nearly every industry. Companies ranging from real estate and public records to forecasting and cloud storage are jumping into blockchains. Still, many people don't have a good understanding of what a blockchain is.
 
-Blockchains excel at a very specific function: being a distributed, trustless, immutable ledger for data. Before the invention of blockchains, there was no way to share a database with the entire internet and still trust that its data was reliable. Thanks to blockchains we can not only rely on this data, but in the case of Bitcoin, we can use it to secure a network currently valued at $146 billion.
+Blockchains excel at a very specific function: being a distributed, trustless, immutable ledger for data. Before the invention of blockchains, there was no way to share a database with the entire internet and still trust that its data was reliable and tamper resistant. Thanks to blockchains we can not only rely on this data, but in the case of Bitcoin, we can use it to secure a network currently valued at $146 billion.
 
 In this article I'll help you understand blockchains by exploring:
 
