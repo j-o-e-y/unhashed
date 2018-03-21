@@ -69,6 +69,6 @@ The reason that you don't need to trust anyone on a proper blockchain is because
 
 There is no doubt that the concept of using a blockchain for Bitcoin was profound, without it no cryptocurrency could exist as we know them today. Blockchains actually did even more than this though, they solved a crucial trust issue for the internet era in an elegant and secure way.
 
-We now have the ability to share information in a more secure and dependable way. The implications of this invention are still yet to be realized. I'm sure in the future, people will look back at the invention of the blockchain and compare it with the invention of the internet itself.
+We now have the ability to share information with more security and dependability than we ever have. The full implications of this creation are still yet to be realized. I'm sure in the future, people will look back at the invention of the blockchain and compare it with the invention of the internet itself.
 
 It's still very early in the life of blockchains, and outside of cryptocurrencies, it's not clear where they will be effective. Nevertheless, they're being tested in other areas and it is only a matter of time before some other industry is disrupted by them. Over the next few years it should be exciting to find out where else blockchains can thrive and how we can improve them.
