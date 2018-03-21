@@ -1,6 +1,6 @@
 # What is Blockchain?
 
-On January 23, 2009 Satoshi Nakamoto shared with us the invention of Bitcoin and its underlying technology: the blockchain. Now this tech that allows cryptocurrencies to exist is being tested in nearly every industry. Companies ranging from real estate and public records to forecasting and cloud storage are jumping into blockchains. Still, many people don't understand what a blockchain is.
+On January 9, 2009 Satoshi Nakamoto shared with us the invention of Bitcoin and its underlying technology, the blockchain. Now this tech that allows cryptocurrencies to exist is being tested in nearly every industry. Companies ranging from real estate and public records to forecasting and cloud storage are jumping into blockchains. Still, many people don't have a good understanding of what a blockchain is.
 
 Blockchains excel at a very specific function: being a distributed, trustless, immutable ledger for data. Before the invention of blockchains, there was no way to share a database with the entire internet and still trust that its data was reliable. Thanks to blockchains we can not only rely on this data, but in the case of Bitcoin, we can use it to secure a network currently valued at $146 billion.
 
@@ -47,7 +47,7 @@ As long as the reward and difficulty remain in balance, it will always be in a m
 
 ### Decentralization
 
-Another important feature of a healthy blockchain is to remain decentralized. Which means that there is diversification in the operation of nodes and that there are a sufficient number of them storing the full historical record of every transaction, known as "full nodes". This diversification serves a few purposes, the first of which is to keep everyone else honest. If the only holders of the entire blockchain are the ones that collude to cheat, then the proof of work system can be circumvented.
+Another important feature of a healthy blockchain is to remain decentralized. Which means that there is diversification in the operation of nodes and that there are a sufficient number of them storing the full historical record of every transaction, these as called "full nodes". This diversification serves a few purposes, the first of which is to keep everyone else honest. If the only holders of the entire blockchain are the ones that collude to cheat, then the proof of work system can be circumvented.
 
 Another logical reason to have the blockchain distributed widely is to make it difficult to censor. You have to get almost 100% of nodes to agree on the censorship being imposed. Without near majority you would end up with two versions of reality, with some nodes having the censored data and some having the free data. These nodes will stop communicating with each other creating a fork in the history and the coin, possibly with catastrophic effects for both sides.
 
@@ -65,7 +65,9 @@ A blockchain allows participants to agree on a public ledger of data without nee
 
 ## Summary
 
-There is no doubt that the invention of blockchains was profound. They solved a fundamental trust issue on the internet in an elegant and secure way. However, blockchains are not a solution easily adapted to most industries as they do have scaling and efficiency shortcomings.
+There is no doubt that the concept of using a blockchain for Bitcoin was profound. Without it no cryptocurrency could exist as we know them today. Blockchains actually did more than this though, they solved a crucial trust issue in an elegant and secure way. There's no doubt we have yet to see all the possible applications. However, blockchains are still young and have some problems to overcome.
 
-Keep in mind, the first email was sent in 1971 between two universities using computers the size of an entire room. 36 years later the first iPhone was released, bringing email to millions of new users over night. Blockchains are still young and technology is moving at an incredible pace. It will definitely be exciting to see how this technology matures over the next years.
+In only their 9th year of existence, I see similarities between blockchains and early email. The first email was sent in 1971 between two universities using computers the size of an entire room. 36 years later the first iPhone was released, bringing email to millions of new users over night.
+
+Most people didn't even have an email address before 2008, 10 years later it's nearly impossible to find someone without one. Just taking a look at the multitude of cryptocurrencies and tokens all using blockchains for something unique. You can see it won't be long before blockchains have their iPhone moment the way email did 10 years ago.
 
