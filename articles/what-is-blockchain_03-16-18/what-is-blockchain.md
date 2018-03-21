@@ -73,4 +73,4 @@ There is no doubt that the concept of using a blockchain for Bitcoin was profoun
 
 We now have the ability to share information with more security and dependability than we ever have. The full implications of this creation are still yet to be realized. I'm sure in the future, people will look back at the invention of the blockchain and compare it with the invention of the internet itself.
 
-It's still very early in the life of blockchains, and outside of cryptocurrencies, it's not clear where they will be effective. Nevertheless, they're being tested in other areas and it is only a matter of time before some other industry is disrupted by them. Over the next few years it should be exciting to find out where else blockchains can thrive and how we can improve them.
+It's still very early in the life of blockchains, and outside of cryptocurrencies, it's not clear where they will be effective. Nevertheless, they're being tested in other areas and it is only a matter of time before some other industry is disrupted by them. Over the next few years it will be exciting to find out where else blockchains can thrive and how much more efficient they can become.
