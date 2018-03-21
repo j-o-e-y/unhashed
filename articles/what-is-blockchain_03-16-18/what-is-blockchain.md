@@ -51,7 +51,7 @@ Another important feature of a healthy blockchain is to remain decentralized. Wh
 
 Another logical reason to have the blockchain distributed widely is to make it difficult to censor. You would have to get almost 100% of nodes to agree on any censorship being imposed. Without near majority you end up with two different versions of reality, with some nodes having the censored data and some having the uncensored data. These two subsets of nodes will stop communicating with each other creating a fork in the history and the coin, possibly with catastrophic effects for both sides.
 
-This type of fork actually happened with Ethereum (ETH) when the devs decided to roll back the blockchain to fix a coding error and a portion of nodes refused to follow. The nodes that refused to follow now have their own coin: Ethereum Classic (ETC).
+This type of fork [actually happened](https://en.wikipedia.org/wiki/Ethereum_Classic#History) with Ethereum (ETH) when the devs decided to roll back the blockchain to fix a coding error and a portion of nodes refused to follow. The nodes that refused to follow now have their own coin: Ethereum Classic (ETC).
 
 The final reason to keep the network decentralized is not about security, but for the overall health of the system. When new nodes come online, whether they are attempting to acquire the entire blockchain or just check the balance of a single address, they need to request this data from other nodes. If there is not a decent number of nodes out there to serve the data, then the ones that exist can become overloaded easily. This could Slow down or even completely stop the entire network.
 
