@@ -9,6 +9,7 @@ In this article I'll help you understand blockchains by exploring:
 + What Does a Blockchain Do?
   - History
   - General Overview
+  - Use Cases
 + How Is a Blockchain Secure?
   - Game Theory
   - Mining
@@ -34,6 +35,14 @@ A blockchain is a type of database where the data is organized into groups, call
 
 Depending on the difficulty required to add new blocks to the chain, the fact that there is a reference to the previous block makes the chain resistant to mutation. The longer the chain becomes the more resistant it becomes to change. This makes the data on the blockchain extremely secure and reliable.
 
+### Uses Cases
+
+The first use of a blockchain was as the ledger of ownership for the digital currency Bitcoin, but we now know that there is much more this technology can do. Paving the way for a future where we no longer have to scan identification documents, [Microsoft is using blockchains](https://cloudblogs.microsoft.com/enterprisemobility/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/) to store digital identities in order to make online verification easier.
+
+Even less known groups are using blockchains in even more exciting ways. [Storj](https://storj.io) is using blockchains to decentralize data storage, and [Augur](https://www.augur.net/) is providing a predictions market that will offer accurate forecasting. [La`Zooz](http://lazooz.org/) and [Arcade City](https://arcade.city/) are using blockchains for distributing rideshares. [Follow My Vote](https://followmyvote.com/) and [Democracy Earth](https://www.democracy.earth/) want to use blockchains to decentralize and secure voting.
+
+In other cases, blockchains are being used as even more than just a ledger. There are a handful of teams using blockchains as platforms for smart contracts. These used to be referred to as "blockchain 2.0" projects because they take the blueprint that Satoshi gave us and they take it to the next level. These blockchains are intended to function like a global computer rather than a database. Some of those using blockchains as platforms for code execution are [Aeternity](https://aeternity.com/), [Ethereum](https://ethereum.org), [EOS](https://eos.io), [golem](https://golem.network/), [IOTA](https://iota.org), and [NEO](https://neo.org/).
+
 ## How Is a Blockchain Secure?
 
 What does it mean for a blockchain to be secure? Essentially it means that the information stored on the blockchain can't be altered. So how can a database completely built and maintained by strangers, some of them known bad actors, be so reliable? It comes down to two main things: smart planning of reward vs. penalty and decentralization.
@@ -42,7 +51,7 @@ What does it mean for a blockchain to be secure? Essentially it means that the i
 
 One of the properties that secures a blockchain is the balance between the difficulty in adding new blocks and the reward received for doing so. If the blocks are too difficult to create, no transactions will ever get confirmed. When the blocks are too easy to create, a malicious actor may roll back the chain, give themselves more funds, and then easily build the blocks back.
 
-The analysis of how participants in a competitive system will act in regards to reward and punishment is referred to as game theory. Some people will say that the great invention of blockchain had little to do with cryptography or economics, but was instead a brilliant leap forward for global game theory in this interconnected world. What Satoshi did was use the inherent cost in creating electricity as the penalty and new Bitcoin as the reward. Which did two helpful things, it created and incentive to remain honest and a method by which new coins are generated.
+The analysis of how participants in a competitive system will act in regards to reward and punishment is referred to as game theory. Some people will say that the great invention of blockchain had little to do with cryptography or economics, but was instead a brilliant leap forward for global game theory in this interconnected world. What Satoshi did was use the inherent cost in creating electricity as the penalty and new Bitcoin as the reward. Which did two helpful things, it created an incentive to remain honest and a method by which new coins are generated.
 
 ### Mining
 
@@ -50,7 +59,11 @@ When transactions are made on any cryptocurrency network they are first spread t
 
 ![mining map](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_beci-map.png)
 
-As long as the reward and difficulty remain in balance, it will always be in a miners best interest to confirm transactions according to the rules. By trying to break the rules, or rewrite part of the blockchain, the miners are penalized with enormous electricity costs. Even with an extreme amount of money available to anyone that does, no one has come up with an attack that is more profitable than simply following the rules.
+This system of using energy to add new blocks to the chain is know as "[Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work) (PoW)," another interesting method that is being used is called "[Proof of Stake](https://en.wikipedia.org/wiki/Proof-of-stake) (PoS)." In a PoS system the odds of finding a block are not determined by physical machines burning electricity, but instead by the amount or age of cryptocurrency a miner has staked. As of yet PoS has not been truly tested at global scale, but that will change when Ethereum begins transitioning to [Casper](https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide).
+
+The PoS method is interesting because it addresses two issues. The first is obvious, a reduction in energy use from PoW. The second is more philosophical; in PoW a miner does not have to own any of the coin they're mining. They could sell all their rewards immediately, and in reality most miners do to pay for the costs involved with running their operation. There's a theory that this lack of interest in the coin from the miners could have negative effects on the blockchain in the future. On the other hand, in PoS a miner has to hold some of the coin to keep mining. Therefore, the theory is, that the miners will have a vested interest in the future of the coin.
+
+Regardless of the proof algorithm, as long as the reward and difficulty remain in balance, it will always be in a miners best interest to confirm transactions according to the rules. By trying to break the rules, or rewriting part of the blockchain, the miners are penalized. Even with an extreme amount of money available to anyone that does, no one has come up with an attack that is more profitable than simply following the rules.
 
 ### Decentralization
 
