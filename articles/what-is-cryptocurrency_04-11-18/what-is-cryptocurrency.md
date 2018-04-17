@@ -49,9 +49,24 @@ However, Bitcoin was only the first application. Soon after Satoshi Nakamoto int
 
 ## The Future of Cryptocurrencies
 
-So, here we are, at the beginning of a transition from an economic system that stretches back hundreds of years to a system that was first described 35 years ago. In less than a decade we're seeing cryptocurrencies bring a new excitement to the world of economics. People are using them in ways their developers could not have fathomed, and pushing the limits of what initially was thought to be possible. I don't know if Satoshi, or any of the cypherpunks, could have ever predicted that in just under a decade there would be so much adoption of this revolutionary technology.
+So, here we are, at the beginning of a transition from an economic system that stretches back hundreds of years to a system that was first described 35 years ago. In less than a decade we're seeing that cryptocurrencies have brought with them a new excitement to the world of economics. People are using them in ways their developers could not have fathomed, and pushing the limits of what initially was thought to be possible. I don't know if Satoshi, or any of the cypherpunks, could have ever predicted that in just under a decade there would be so much adoption of this revolutionary technology.
 
-Much like with the early internet, the hurdles that cryptocurrencies have experienced are the seeds of creation for countless new technological breakthroughs. In the short term future we are going to see scaling features on a second layer, like the Lightning Network. These will bring cryptocurrencies into the world of micropayments, and allow for atomic swaps of cryptocurrencies without trust, upsetting businesses like Changelly and Shapeshift.
+Much like with the early internet, the hurdles that cryptocurrencies have faced became the seeds of creation for countless new technological breakthroughs. In the short term future we are going to see scaling features on a second layer, like the [Lightning Network](https://lightning.network/). These will bring cryptocurrencies into the world of micropayments and machine to machine payments. They'll also allow for atomic swaps of cryptocurrencies without trust, upsetting businesses that charge for this service like Changelly and Shapeshift.
 
-As we move further from the traditional banking system we will see more and more companies and individuals creating their own cryptocurrencies for specific use cases. If you thought there was a lot of ICOs now, just wait until ever person with a business plan has one. With less need to trade for national currencies we will start to see the demise of cryptocurrency exchanges. It's likely that the NYSE and other stock exchanges will switch to a cryptocurrency system as they can provide better security and either transparency or privacy. This would likely lead to P2P exchanges where different cryptocurrencies that represent cash, stocks, shares, and other tokens are all traded for each other completely free from third parties.
+As we move further from the traditional banking system we will see more and more companies and individuals creating their own cryptocurrencies for specific use cases. If you thought there was [a lot of ICOs](https://archive.is/NNnUS) now, just wait until it becomes standard that ever person with an idea and a business plan has an ICO to go along with it.
+
+With less need to trade for national currencies we will start to see the demise of cryptocurrency exchanges. It's likely that the NYSE and other stock exchanges will switch to a cryptocurrency system as they can provide better security and either transparency or privacy. This would likely lead to P2P exchanges where different cryptocurrencies that represent cash, stocks, shares, and other tokens are all traded for each other completely free from third parties.
+
+The long term is anyones guess, but without question we will see global adoption of this tech. Some nations will create their own cryptocurrencies, like [Petro](https://en.wikipedia.org/wiki/Petro_(cryptocurrency)), but places like the EU may choose to use an established one that is without geographical bias. There may eventually be so many choices of cryptocurrency that their use will become expressive. People might choose their coins or tokens in the same way that they choose their clothes or cars.
+
+## Conclusion
+
+Sure it took a long time to get from using livestock and plant money to the birth of Bitcoin, but it couldn't have happened without the countless inventions along the way that made it possible. Electricity, computers, the internet, the [crypto wars](https://en.wikipedia.org/wiki/Crypto_Wars), bittorrent, and the work of the cypherpunks all were crucial to the creation of cryptocurrencies.
+
+In this first decade of existence we've seen that cryptocurrencies live up to all that Satoshi promised and more than he could have guessed. There's no way to know for certain what the future holds, but you can be sure that cryptocurrencies will play a significant role.
+
+
+
+
+
 
