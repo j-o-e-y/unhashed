@@ -61,9 +61,9 @@ The long term is anyones guess, but without question we will see global adoption
 
 ## Conclusion
 
-Sure it took a long time to get from using livestock and plant money to the birth of Bitcoin, but it couldn't have happened without the countless inventions along the way that made it possible. Electricity, computers, the internet, the [crypto wars](https://en.wikipedia.org/wiki/Crypto_Wars), bittorrent, and the work of the cypherpunks all were crucial to the creation of cryptocurrencies.
+It took a long time to get from using livestock and plant money to the birth of Bitcoin, but it couldn't have happened without the countless inventions along the way that made it possible. Electricity, computers, the internet, the [crypto wars](https://en.wikipedia.org/wiki/Crypto_Wars), bittorrent, and the work of the cypherpunks were all crucial to the creation of cryptocurrencies.
 
-In this first decade of existence we've seen that cryptocurrencies live up to all that Satoshi promised and more than he could have guessed. There's no way to know for certain what the future holds, but you can be sure that cryptocurrencies will play a significant role.
+In this first decade of existence we've seen that cryptocurrencies definitely live up to all that Satoshi promised and more than he could have guessed. There's no way to know for certain what the future holds, but you can be sure that cryptocurrencies are here to stay and will play a significant role.
 
 
 
