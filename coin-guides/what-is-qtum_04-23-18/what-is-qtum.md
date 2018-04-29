@@ -38,13 +38,13 @@ By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use
 
 Qtum has a [team](https://qtum.org/en/team) of 18 people worldwide. They are made up of individuals from both the Bitcoin and Ethereum space, as well as from companies and institutions outside of cryptocurrency. The group is both young and experienced with a passion for pushing blockchain technologies beyond their current limits.
 
-![qtum team pic]()
+![qtum team pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_team-pic.jpg)
 
 The lead developer is [Jordan Earls](https://github.com/earlz), a self taught coder from the age of 13 with an impressive history of open source projects that includes a [review](https://github.com/Earlz/coinreviews) of over 200 cryptocurrencies. This undoubtedly gives Jordan a deep and thorough understanding of the history of blockchain development which should lead to faster and more effective progress for Qtum.
 
 Jordan, together with about 6 members of the Qtum team, have contributed most of the code to their Github repo. However, since they share a code base, Qtum can pull in upgrades from Bitcoin's repo. This is exactly the point of open source development, and it's very smart of the Qtum team to take advantage of the robust development that happens on Bitcoin's code. It's also worth mentioning that the Qtum developers always give proper attribution when they borrow code from Bitcoin. In my opinion, this says something positive about their ethics.
 
-![github commit insight pic]()
+![github commit insight pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_github-insight-commits.png)
 
 ### Goals
 
@@ -54,7 +54,7 @@ The current objectives of the Qtum development team are all about gearing up for
 
 One of Qtum's intentions is to make it possible for users to not need a PC or laptop, and already you can create and interact with smart contracts via their mobile app. Coming soon the team will introduce a lightweight SPV wallet, hardware wallet integration, they plan to build more robust developer tools, they will add the lightning network for scalability, and there are plans to create a Dapp store.
 
-![qtum roadmap pic]()
+![qtum roadmap pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum-roadmap.png)
 
 ## How Does Qtum Work
 
