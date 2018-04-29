@@ -31,7 +31,7 @@ Satoshi, having learned from the mistakes of these past attempts, knew two thing
 
 A blockchain is a type of database where the data is organized into groups, called blocks. Each new block uses a cryptographic method, called hashing, to include a reference to the data in the previous block. This creates a chain in the sense that to change any data in a block would in turn change the next block, and so on down the line.
 
-![hash chain pic](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_hashchain_aantonop.png)
+![hash chain pic](/coin-guides/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_hashchain_aantonop.png)
 
 Depending on the difficulty required to add new blocks to the chain, the fact that there is a reference to the previous block makes the chain resistant to mutation. The longer the chain becomes the more resistant it becomes to change. This makes the data on the blockchain extremely secure and reliable.
 
@@ -57,7 +57,7 @@ The analysis of how participants in a competitive system will act in regards to 
 
 When transactions are made on any cryptocurrency network they are first spread to other nodes and stored in a group waiting to be included in a block. This group of unconfirmed transactions is referred to as the "mempool." In order for these transactions to be included in a block, a certain amount of "work" must be done. The specialized hardware that does this work are referred to as a miners, and they use a massive amount of electricity to do this.
 
-![mining map](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_beci-map.png)
+![mining map](/coin-guides/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_beci-map.png)
 
 This system of using energy to add new blocks to the chain is know as "[Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work) (PoW)," another interesting method that is being used is called "[Proof of Stake](https://en.wikipedia.org/wiki/Proof-of-stake) (PoS)." In a PoS system the odds of finding a block are not determined by physical machines burning electricity, but instead by the amount or age of cryptocurrency a miner has staked. As of yet PoS has not been truly tested at global scale, but that will change when Ethereum begins transitioning to [Casper](https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide).
 
@@ -71,7 +71,7 @@ Another important feature of a healthy blockchain is to remain decentralized. Wh
 
 Another logical reason to have the blockchain distributed widely is to make it difficult to censor. You would have to get almost 100% of nodes to agree on any censorship being imposed. Without near majority you end up with two different versions of reality, with some nodes having the censored data and some having the uncensored data. These two subsets of nodes will stop communicating with each other creating what is called a “hard fork,” possibly with catastrophic effects for both sides.
 
-![chain fork](/articles/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_hard-fork_bitcoinorg.png)
+![chain fork](/coin-guides/what-is-blockchain_03-16-18/what-is-blockchain-media/wib_hard-fork_bitcoinorg.png)
 
 This type of fork [actually happened](https://en.wikipedia.org/wiki/Ethereum_Classic#History) with Ethereum (ETH) when the devs decided to roll back the blockchain to fix a coding error and a portion of nodes refused to follow. The nodes that refused to follow now have their own coin: Ethereum Classic (ETC).
 

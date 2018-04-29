@@ -27,7 +27,7 @@ The fact that MEW has a small footprint, it is quick to start using, and gives t
 
 MyEtherWallet's primary objective is not design, and at first you really notice it. The first impression is a busy page with a red warning at the top which doesn't ever go away. There's an overwhelming amount of links and drop down menus for things that new users don't even understand.
 
-![aesthetic pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_aesthetic_cropped.png)
+![aesthetic pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_aesthetic_cropped.png)
 
 That being said, I can assure you that after using the wallet a few times you won't notice the design shortcomings. You will become more familiar with how the wallet works and you'll realize that the priority was to build a product that works great. Even if that means sacrificing some effort towards design.
 
@@ -41,7 +41,7 @@ The positive side of this is that your sensitive information doesn't reside on w
 
 MyEtherWallet offers many features that you won't find in other wallets. You can get an idea of how much this wallet can do by taking a look at the navigation bar.
 
-![unique features pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_unique-features_cropped.png)
+![unique features pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_unique-features_cropped.png)
 
 A few of the most useful and powerful features are: swapping between Bitcoin (BTC) and ETH, creating and interacting with smart contracts, registering with the Ethereum Name Service (ENS), and selling or buying registered domains. These types of services usually require visiting an external website. Achieving all this within a light wallet is pretty rare.
 
@@ -51,11 +51,11 @@ A few of the most useful and powerful features are: swapping between Bitcoin (BT
 
 In a web browser, go to https://myetherwallet.com. You'll have to click through about 10 pages of introductions, warnings, and best practices. It can be a little annoying, but the information provided is useful.
 
-![firstrun pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_firstrun_cropped.png)
+![firstrun pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_firstrun_cropped.png)
 
 After the pop-ups, the first page you're presented with is the `New Wallet` page. Here you set a password and click the `Create New Wallet` button. Always keep a backup of your password.
 
-![new wallet button pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_new-wallet_cropped.png)
+![new wallet button pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_new-wallet_cropped.png)
 
 ### 2. Backup your keystore file.
 
@@ -65,7 +65,7 @@ Click `Download Keystore File (UTC / JSON)` button, then select the download loc
 
 When the download is finished you can click the `I understand. Continue.` button.
 
-![keystore backup pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_keystore-backup_cropped.png)
+![keystore backup pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_keystore-backup_cropped.png)
 
 ### 3. Backup your private key.
 
@@ -73,11 +73,11 @@ This is the last of the standard backup procedures, saving your private key. Thi
 
 Click the `Print Paper Wallet` button.
 
-![privkey backup pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_privkey-backup_cropped.png)
+![privkey backup pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_privkey-backup_cropped.png)
 
 You'll be brought to another tab where you will see what your printable private key looks like.
 
-![print privkey pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_privkey-paper_cropped.png)
+![print privkey pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_privkey-paper_cropped.png)
 
 When you are ready to print, close this tab and you will be see your print options. After printing you can click the `Save Your Address.` button.
 
@@ -87,15 +87,15 @@ Now that you have secured two backup types, it's time to test that you can succe
 
 If you choose to use the keystore file, you'll need the file and your password. Once you have selected your keystore file and entered your password you can click the `Unlock` button.
 
-![unlock keystore pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_login-keystore_cropped.png)
+![unlock keystore pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_login-keystore_cropped.png)
 
 If you choose to use your private key, you will not need a password. Once you have entered your private key you can click the `Unlock` button.
 
-![unlock privkey pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_login-privkey_cropped.png)
+![unlock privkey pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_login-privkey_cropped.png)
 
 After successfully unlocking your wallet you will be able to scroll down to where you can see your address for receiving Ether and tokens. You can also check your balance and make additional backups here.
 
-![unlocked wallet pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_unlocked-wallet_cropped.png)
+![unlocked wallet pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_unlocked-wallet_cropped.png)
 
 ### 5. Sending Ether.
 
@@ -103,19 +103,19 @@ To send Ether to another address click on `Send Ether & Tokens` in the navigatio
 
 Now you can enter the details of your transaction. You will need to enter the recipients address and the amount to send. `Gas Limit` is the transaction fee, you should leave it default.
 
-![send details pic](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-addramt_cropped.png)
+![send details pic](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_send-addramt_cropped.png)
 
 Review the details and click the `Generate Transaction` button. You'll be shown what the completed transaction looks like before it's broadcast to the network. When you're ready, click the `Send Transaction` button.
 
-![send pushtx](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx_cropped.png)
+![send pushtx](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx_cropped.png)
 
 This will be your last chance to review the transaction details and be sure you want to broadcast it. Once a transaction is broadcast it is irreversible. When you are positive about the details you can click the `Yes, I am sure! Make transaction.` button.
 
-![send pushtx verify](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx-verify_cropped.png)
+![send pushtx verify](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx-verify_cropped.png)
 
 At this point you'll be brought back to the send page where you will see a pop-up explaining how to track your payment. Depending on network congestion, the verification time of your transaction can vary. Click on the links in the pop-up to find out details about your transaction status.
 
-![send pushtx success](/reviews-guides/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx-success_cropped.png)
+![send pushtx success](/wallet-reviews/myetherwallet_02-04-18/myetherwallet-media/myether_send-pushtx-success_cropped.png)
 
 
 ## MyEtherWallet Review Summary

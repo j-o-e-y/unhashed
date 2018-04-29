@@ -21,7 +21,7 @@ The Edge team has given strong attention to user friendliness in their wallet. T
 
 As soon as you log in the first time you are ready to begin receiving Bitcoin and Ether. Once you have some of any cryptocurrency in the wallet, you can easily send or swap it for any other supported coin or token using their built-in exchange feature.
 
-![edge wallet main page](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-main-page.png)
+![edge wallet main page](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-main-page.png)
 
 ### User Interface
 
@@ -33,7 +33,7 @@ From the main wallet page you can backup your seeds, add new cryptocurrency wall
 
 Edge was just released on February 15th of this year, so the wallet only has native support for five cryptocurrencies and two tokens at this time.
 
-![edge supported cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-supported-cryptos.png)
+![edge supported cryptos pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_site-supported-cryptos.png)
 
 You may add any ERC20 tokens to the wallet, however it remains unknown when other cryptocurrencies will be added or which ones they will be. Until Edge wallet matures a bit, users storing a larger portfolio of coins might want to try Jaxx wallet for mobile devices and desktops, or the Ledger Nano S hardware wallet.
 
@@ -51,23 +51,23 @@ If you need a strong security option, the safest choice is always a [hardware wa
 
 Edge wallet can be installed from the [Play Store](https://play.google.com/store/apps/details?id=co.edgesecure.app), [iTunes](https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8), or directly from the [Edge site](https://edgesecure.co).
 
-![edge site downloads pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_site-downloads.png)
+![edge site downloads pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_site-downloads.png)
 
 ### 2. Create an account.
 
 The first time you run the app you will need to create an account with Edge. You must set a username, password, and 4 digit pin. These account details are used to encrypt your wallet info on Edge servers in case you lose or break your device. So be sure to use a username and password that have never been used for any other account.
 
-![edge wallet firstrun pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-create-account.png)
+![edge wallet firstrun pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-create-account.png)
 
 After creating your pin you are conveniently given the opportunity to backup your data. After writing down a copy of your account credentials, you just have to confirm their terms of use and your wallet is ready to use.
 
-![edge wallet signup finish](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-signup-finish.png)
+![edge wallet signup finish](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-signup-finish.png)
 
 ### 3. Add other cryptocurrencies.
 
 From the main page, "Wallets", adding another cryptocurrency is easy. Tap the "+" next to "My Wallets" and a menu of supported currencies is listed. Simply tap whichever asset you would like to add. You'll be brought back to the "Wallets" page where your new currencies wallet will now be listed.
 
-![edge wallet add cryptos pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-add-cryptos.png)
+![edge wallet add cryptos pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-add-cryptos.png)
 
 If you would like to add ERC20 tokens, please refer to [Edge's guide](https://blog.edgesecure.co/how-to-add-erc20-tokens-to-edge-4c4951c3a8cc).
 
@@ -77,7 +77,7 @@ To receive coins, begin by tapping "Request" on the navigation bar. At the top o
 
 From here you can either have the sender scan the displayed QR code with their device, use "Copy" to copy the address to your clipboard, or use "Share" to share the address with any another app (including sms to one of your contacts).
 
-![edge wallet receive pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-receive.png)
+![edge wallet receive pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-receive.png)
 
 ### 5. Send coins.
 
@@ -85,11 +85,11 @@ To send coins, begin by tapping "Send" on the navigation bar. You will immediate
 
 If you wish to paste an address from your clipboard, tap "Address". A pop-up will appear for entering the address.
 
-![edge wallet send address pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-series.png)
+![edge wallet send address pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-series.png)
 
 Next you will have to verify your send amount. This is also where you may adjust your miner fee, by tapping the three dots at the top right and selecting "Change Mining Fee" from the drop down menu. When you've made your desired selections you can slide to the left to confirm sending.
 
-![edge wallet send verify pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-verify.png)
+![edge wallet send verify pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-send-verify.png)
 
 ### 5. Exchange coins.
 
@@ -97,17 +97,17 @@ To exchange one cryptocurrency for another you must first have a wallet set up f
 
 Start by tapping "Exchange" on the navigation bar. On the next page tap "Select Source Wallet" and choose the crypto you wish to switch from.
 
-![edge wallet exchange series 1 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-exchange-series-1.png)
+![edge wallet exchange series 1 pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-exchange-series-1.png)
 
 You'll have to repeat the same steps for the receiving wallet. Start by tapping "Select Receiving Wallet".
 
-![edge wallet exchange series 2 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-exchange-series-2.png)
+![edge wallet exchange series 2 pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-exchange-series-2.png)
 
 Now you can select how much you would like to exchange. You can either enter the amount of cryptocurrency or fiat. The app will fill in the rest, including the amount of alternative asset you will be receiving.
 
 When you are done with your selections tap "Next". You'll have one last chance to confirm, slide left to initiate the exchange.
 
-![edge wallet exchange series 3 pic](/reviews-guides/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-exchange-series-3.png)
+![edge wallet exchange series 3 pic](/wallet-reviews/edge-wallet_03-08-18/edge-wallet-media/edge_wallet-exchange-series-3.png)
 
 ## Summary
 
