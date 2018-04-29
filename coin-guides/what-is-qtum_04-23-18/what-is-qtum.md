@@ -14,8 +14,12 @@ By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use
   - Snapshot
   - Team
   - Goals
++ How Does Qtum Work?
+  - Technical
 
-## What is Qtum
+## What is Qtum?
+
+### Snapshot
 
 | | |
 |-----|--------|
@@ -32,7 +36,7 @@ By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use
 | Block Time | 120 seconds
 | Block Size | 2MB
 | Block Reward | 4 QTUM + Fees
-| Block Explorer | https://qtum.info
+| Block Explorer | https://qtum.info, https://qtumexplorer.io
 
 ### Team
 
@@ -56,20 +60,49 @@ One of Qtum's intentions is to make it possible for users to not need a PC or la
 
 ![qtum roadmap pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum-roadmap.png)
 
-## How Does Qtum Work
+## How Does Qtum Work?
 
-### Technical info
+### Technical Info
 
-Qtum's technological claim to fame is their unique [Account Abstraction Layer](https://qtum.org/en/account-abstraction-layer-overview). Which 
+Qtum's main technological achievement to date is their unique [Account Abstraction Layer](https://qtum.org/en/account-abstraction-layer-overview). This layer of their software stack allows for communication between contracts that utilize Ethereum's account management system and Qtum's base layer which uses an adaption of Bitcoin's UTXO model. This is a crucial step in Qtum's vision which includes executing smart contracts and Dapps in mobile environments and at scales previously unattainable by other cryptocurrencies.
 
-### Transactions (if applicable)
-### Mining (if applicable)
-### Development Status/Future plans
-Can pull from Ethereum and Bitcoin development, benefit from their contributions.
-### Address scaling (if applicable)
-### Partnerships (if applicable)
+![qtum software stack pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_aal.png)
+
+The first benefit of the use of the UTXO model is that Qtum can use [SPV](https://bitcoin.org/en/glossary/simplified-payment-verification) for mobile clients. SPV was invented by Satoshi Nakamoto, and to date is still the most secure known way for a light client to look up balances without downloading blocks. The importance of having a quick, trustless, and secure way to check balances from any device should not be underestimated. Most cryptocurrency ecosystems lack this and many Bitcoin wallets don't even make use of this available feature. Instead they end up relying on centralized, closed source servers that at best might have some down time. At worst they can lie about the balance of your addresses, or keep you from accessing your funds in some cases where the user does not control the keys. This could cause havoc in the industries that Qtum is trying to provide tools for, and would be a deal breaker for most prospective users.
+
+The next advantage of using a base layer with significant development behind it is adoption of their future achievements. Qtum, like any blockchain, is going to have scaling issues, especially if they meet their target market of global industries. In order to handle a larger number of transactions they will inevitably have to move to a second layer and settle on the base blockchain. To address this concern, Qtum has decided to implement the Lightning Network on their chain some time in the next 6-18 months. Once Lightning is running on their network, they will also be able to perform trustless cross-chain [atomic swaps](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading) with other coins.
+
+Some other assets gained from the merger of the two most established technologies in cryptocurrency is familiarity and modularity. Contracts written for Ethereum can run on Qtum with no modification. Any wallet provider, exchange, or service that has experience with Bitcoin payments will be able to adopt Qtum seamlessly. Equally, any developer familiar with writing Ethereum contracts or creating Bitcoin tools will have a small learning curve to move into Qtum development.
+
+### Governance
+
+An interesting aspect of open source development in project governance. The outcome of what can happen when there is not a well defined model for making decisions within a decentralized group could be seen all too well in Bitcoin's scaling debates over the past couple years. In order to avoid situations like that, which are ultimately unhealthy for a project, many teams have come up with governance structures.
+
+Qtum's [governance](https://qtum.org/en/the-qtum-foundation-governance-structure) is handled by the Qtum Foundation along with [PwC](https://www.pwc.com). PwC teamed up with Qtum in March 2017 to assist in various areas including quality assurance, advisory, and tax services.
+
+In Bitcoin Magazine, Patrick Dai said:
+>"PwC has helped the Qtum Foundation setting up our governance model, project management, and risk management."
+
+The model of administration that Qtum has adopted, and outlined in their [white paper](https://qtum.org/uploads/files/ef2723f33deef1875ef17361f7c696ef.pdf), consists of committees and directors. Each of them have specific tasks and provide checks and balances for each other. The focus of the entire structure is based around security, sustainability, and effectiveness.
+
+### Mining
+
+The mining algorithm is an important piece of any cryptocurrencies architecture, it is one of the ways that security is implemented on a blockchain. So when it came to choosing a mining method for Qtum, the team did more than just think about it. They actually spoke with people working in large industrial settings to find out what their need are. Their main concern, it turns out, was Proof-of-Work and it's energy waste.
+
+Patrick Dai had this to say on Bitcoin.com:
+>"In all of our talks to businesses... They asserted that efficiencies of blockchain technology shouldn’t be undermined by the inefficiencies of mining."
+
+For many reasons, including the concerns of industry, Qtum decided to use Proof-of-Stake mining. Specifically [Proof-of-Stake 3.0](https://allthingscrypto.tech/introduction-to-proof-of-work-and-proof-of-stake-3-0-part-4/) which attempts to be more egalitarian by giving each QTUM a single vote regardless of age. They hope this will promote more individuals to stake since the odds can't be games as easily as earlier versions of Proof-of-Stake. The more diverse the stakers are, the more secure the network is through its decentralization.
+
+In order to stake QTUMs you must leave your computer running 24/7, which is the least energy efficient aspect, but still orders of magnitude more efficient than any Proof-of-Work mining hardware. As a matter of fact, the team promotes the use of a [Raspberry Pi](https://steemit.com/qtum/@cryptominder/qtum-staking-tutorial-using-qtumd-on-a-raspberry-pi-3) for the least amount of energy assumption. According to [this](https://qtumexplorer.io/qtum-staking-calculator) staking reward calculator, the current yearly ROI is 4.43%.
+
+### Partnerships
+
 The Qtum project was first funded by $1 million in investments from various backers to build their testnet and initial software. 3 months later, in March 2017, with a working model, they were able to raise an additional $15.6 million in just 5 days. At this time, the Qtum project is backed by 10 investors.
 
+Furthermore, any project running on the Qtum network has a vested interest in it's well being. Although not a traditional partnership, teams running Dapps on their chain and the Qtum development team need to work together for each others benefit. Already there are some interesting Dapps live on Qtum including Bodhi and Bitclave.
+
+![live dapps pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_live-dapps.png)
 
 
 ## Pros/Cons
