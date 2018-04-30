@@ -10,16 +10,20 @@ By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use
 
 ## Table of Contents
 
-+ What is Qtum?
++ What is Qtum
   - Snapshot
   - Team
   - Goals
-+ How Does Qtum Work?
++ How Does Qtum Work
   - Technical Info
   - Governance
   - Mining
   - Partnerships
 + Pros and Cons
+  - Pros
+  - Cons
++ How to Buy
++ Hot to Store
 
 ## What is Qtum?
 
@@ -96,9 +100,9 @@ The mining algorithm is an important piece of any cryptocurrencies architecture,
 Patrick Dai had this to say on Bitcoin.com:
 >"In all of our talks to businesses... They asserted that efficiencies of blockchain technology shouldn’t be undermined by the inefficiencies of mining."
 
-For many reasons, including the concerns of industry, Qtum decided to use Proof-of-Stake mining. Specifically [Proof-of-Stake 3.0](https://allthingscrypto.tech/introduction-to-proof-of-work-and-proof-of-stake-3-0-part-4/) which attempts to be more egalitarian by giving each QTUM a single vote regardless of age. They hope this will promote more individuals to stake since the odds can't be games as easily as earlier versions of Proof-of-Stake. The more diverse the stakers are, the more secure the network is through its decentralization.
+For many reasons, including the concerns of industry, Qtum decided to use Proof-of-Stake mining. Specifically [Proof-of-Stake 3.0](http://earlz.net/view/2017/07/27/1904/the-missing-explanation-of-proof-of-stake-version) which attempts to be more egalitarian by giving each QTUM a single vote regardless of age. They hope this will promote more individuals to stake since the odds can't be games as easily as earlier versions of Proof-of-Stake. The more diverse the stakers are, the more secure the network is through its decentralization.
 
-In order to stake QTUMs you must leave your computer running 24/7, which is the least energy efficient aspect, but still orders of magnitude more efficient than any Proof-of-Work mining hardware. As a matter of fact, the team promotes the use of a [Raspberry Pi](https://steemit.com/qtum/@cryptominder/qtum-staking-tutorial-using-qtumd-on-a-raspberry-pi-3) for the least amount of energy assumption. According to [this](https://qtumexplorer.io/qtum-staking-calculator) staking reward calculator, the current yearly ROI is 4.43%.
+In order to stake QTUMs you must have them stored in an address for 500 blocks (or about 17 hours), and then run their full node software on a computer that remains connected to the Qtum network 24/7. Proof-of-Stake is like a lottery, and you can only be eligible to win if your node is connected. This is the least energy efficient aspect of Qtum, but still orders of magnitude more efficient than any Proof-of-Work mining hardware. The team promotes the use of a [Raspberry Pi](https://steemit.com/qtum/@cryptominder/qtum-staking-tutorial-using-qtumd-on-a-raspberry-pi-3) for the least amount of energy consumption. According to [this](https://qtumexplorer.io/qtum-staking-calculator) staking reward calculator, the current yearly ROI is 4.43%.
 
 ### Partnerships
 
@@ -119,16 +123,22 @@ Furthermore, any project running on the Qtum network has a vested interest in th
 
 ### Cons
 
-+ Market saturation: there are no shortage of smart contract platforms, and even the most promising teams sometimes don't make the best product at the end of the day.
++ Market saturation: there is no shortage of smart contract platforms, and even the most promising teams sometimes don't make the best product at the end of the day.
 + Proof-of-Stake hasn't been pressure tested: Qtum is the first Proof-of-Stake smart contracts, and they don't have the usage yet to claim to have been tested under extreme conditions either caused by mass adoption or an attacker.
-+ Staking machine on 24/7: users staking need to keep their QTUM in a hot wallet on a device connected to the Qtum network, users cannot use a hardware wallet for staking. This is a potential security risk and inconvenient for most users.
++ Staking machine on 24/7: users staking need to keep their QTUM in a hot wallet on a device connected to the Qtum network, users cannot use a hardware wallet for staking. This is a potential security risk and inconvenient for some users.
 
 ## How to Buy
 
-QTUM coins can be bought at a plethora of [exchanges](https://coinmarketcap.com/currencies/qtum/#markets). Most exchanges only have trading pairs in BTC, ETH, or the South Korean won (KRW). So, unless you're in South Korea, you would need to first own or aquire either Bitcoin or Ether. Bitfinex, however, is the only exchange where you can buy QTUM with USD.
+QTUM coins can be bought at a plethora of [exchanges](https://coinmarketcap.com/currencies/qtum/#markets). Most exchanges only have trading pairs in BTC, ETH, or the South Korean won (KRW). So, unless you're in South Korea, you would need to first own or aquire either Bitcoin or Ether. Bitfinex is the only exchange where you can buy QTUM with USD, however you must first pass their verification process.
 
 ![exchange volume pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_exchange-volumes.png)
 
 ## How to Store
+
+It is always in a users best interest to move their coins off of exchanges as soon as possible. The most secure solution for most people is typically a hardware wallet. Ledger supports Qtum on their Nano S and Blue models. You can refer to their [guide](https://support.ledgerwallet.com/hc/en-us/articles/115003776913-How-to-install-and-use-Qtum-with-Ledger) for using Qtum on a Ledger device. This will not give you the ability to stake your QTUM coins or to interact with smart contracts. You can only send and receive QTUM.
+
+There are wallets available for [Android](https://play.google.com/store/apps/details?id=org.qtum.wallet) and [iOS](https://itunes.apple.com/us/app/qtum-wallet/id1277563210?mt=8) developed by the Qtum team. These are less secure than a hardware wallet, but more convenient. You cannot stake from a mobile client, but you can interact with smart contracts. The Qtum team has a mobile client [tutorial](https://github.com/qtumproject/qtum/wiki/Qtum-Mobile-wallet-tutorial).
+
+The final option is to run a full node using the core Qtum software found on their [Github](https://github.com/qtumproject/qtum/releases), with options for Linux, Mac, and Windows. As a node, you will contribute to the connectivity and overall health of the Qtum network by validating and relaying transactions. You also will have the ability to stake QTUM and possibly earn a reward, helping to secure the blockchain. Always be sure to exercise best practices when it comes to [securing](https://steemit.com/qtum/@cryptominder/encrypting-backing-up-and-restoring-your-qtum-wallet) your wallet.
 
 ## Conclusion
