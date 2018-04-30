@@ -4,7 +4,7 @@
 
 Qtum (pronounced "quantum") is a blockchain system that combines what they see as the best parts of Bitcoin and Ethereum to create a superior solution for industrial scale businesses. Founded in 2016 by Patrick Dai of the Singapore-based Qtum Foundation, they raised $16.6M in two rounds of a crowdfunding ICO in early 2017.
 
-Qtum was built by combining Bitcoin's base transaction layer with Ethereum's smart contracts and proof-of-stake consensus. Their goal is provide the tools and framework necessary to execute Ethereum style smart contracts and Dapps on a Turing-complete and globally scalable blockchain, targeted for use by big industries.
+Qtum was built by combining Bitcoin's base transaction layer with Ethereum's smart contracts and Proof-of-Stake consensus. Their goal is provide the tools and framework necessary to execute Ethereum style smart contracts and Dapps on a Turing-complete and globally scalable blockchain, targeted for use by big industries.
 
 By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use of many of the already available tools that exist for each of these coins. Since their developers don't have to spend time bootstrapping all of their software from scratch, they can focus instead on writing the code that they hope will bring these technologies to next level.
 
@@ -19,6 +19,7 @@ By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use
   - Governance
   - Mining
   - Partnerships
++ Pros and Cons
 
 ## What is Qtum?
 
@@ -49,13 +50,13 @@ Qtum has a [team](https://qtum.org/en/team) of 18 people worldwide. They are mad
 
 The lead developer is [Jordan Earls](https://github.com/earlz), a self taught coder from the age of 13 with an impressive history of open source projects that includes a [review](https://github.com/Earlz/coinreviews) of over 200 cryptocurrencies. This undoubtedly gives Jordan a deep and thorough understanding of the history of blockchain development which should lead to faster and more effective progress for Qtum.
 
-Jordan, together with about 6 members of the Qtum team, have contributed most of the code to their Github repo. However, since they share a code base, Qtum can pull in upgrades from Bitcoin's repo. This is exactly the point of open source development, and it's very smart of the Qtum team to take advantage of the robust development that happens on Bitcoin's code. It's also worth mentioning that the Qtum developers always give proper attribution when they borrow code from Bitcoin. In my opinion, this says something positive about their ethics.
+Jordan, together with a handful of other team members, comprise the vast majority of the code to their Github repo. However, since they share a code base, Qtum can pull in upgrades from Bitcoin's repo. This is exactly the point of open source development, and it's very smart of them to take advantage of the expansive development that has and continues to happen on Bitcoin's code. It's also worth mentioning that the Qtum developers always give proper attribution when they borrow code from Bitcoin. In my opinion, this says something positive about their ethics as open source developers.
 
 ![github commit insight pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_github-insight-commits.png)
 
 ### Goals
 
-In the long term, on a high level, Qtum's goal is to act as the bridge which connects legacy industries with the future. They aspire to make smart contracts, distributed applications, and ERC20 tokens easier to use, more secure, and more scalable specifically for businesses. By providing click-and-play solutions that are adaptable to many cases, they can offer decreased cost and improved efficiency to industries such as mobile telecoms, industrial logistics, manufacturing, etc.
+In the long term, and on a high level, Qtum's goal is to act as the bridge which connects traditional industries stuck using slower, and often wasteful, procedures with a more secure and automated future. They aspire to make smart contracts, distributed applications, and ERC20 tokens easier to use, more secure, and more scalable specifically for businesses. By providing click-and-play solutions that are adaptable to many cases, they can offer decreased cost and improved efficiency to industries such as mobile telecoms, industrial logistics, manufacturing, etc.
 
 The current objectives of the Qtum development team are all about gearing up for the future. Already having success on their testnet, the x86 Virtual Machine should be on the mainnet in late 2018, which will be the third platform for smart contract execution after Solidity and the Ethereum Virtual Machine (EVM). This will provide the resources for contracts that can process more data and be written in a larger number of languages, making the procedure of coding a contract more familiar to traditional developers.
 
@@ -105,9 +106,22 @@ The Qtum project was first funded by $1 million in investments from various back
 
 Furthermore, any project running on the Qtum network has a vested interest in the well being of the base layer. Although these are not traditional partnerships, teams running Dapps on their chain and the Qtum development team need to work together for the benefit of everyone involved. Already there are some interesting [Dapps](https://qtumeco.io/dapps) with talented developers which are building on Qtum, including [Bodhi](https://www.bodhi.network), [BitClave](https://www.bitclave.com), and [Spacechain](https://spacechain.com).
 
+## Pros and Cons
 
-## Pros/Cons
+### Pros
 
++ Healthy development team: Qtum has put together a well-rounded group of diverse, talented, and progressive individuals that have the potential to take this project to great places.
++ Strong foundation: the blockchain is built on Bitcoin's anti-fragile base layer, which has been thoroughly tested. In addition to their own upgrades, the team stands to inherit any further upgrades made to Bitcoin.
++ Security in mind: the team puts security first, but without sacrificing convenience.
++ Executes Ethereum contracts: users can easily port existing Ethereum contracts, developers will be familiar with it, and can be an alternative chain for existing Ethereum contracts should the need ever arise (congestion, fatal Ethereum flaw, etc.).
++ Modular design: built with mobile and IoT in mind, right now users can create and interact with smart contracts and tokens on the mobile app.
++ Explosive use cases: Qtum's sights are set on global industry use cases. Shipping logistics, telecommunication tokens, fisheries, factories, etc. Should their platform bring success to a big industrial company, more will no doubt follow.
+
+### Cons
+
++ Market saturation: there are no shortage of smart contract platforms, and even the most promising teams sometimes don't make the best product at the end of the day.
++ Proof-of-Stake hasn't been pressure tested: Qtum is the first Proof-of-Stake smart contracts, and they don't have the usage yet to claim to have been tested under extreme conditions either caused by mass adoption or an attacker.
++ Staking machine on 24/7: while staking the QTUM needs to remain in a hot wallet on a device connected to the Qtum network, users cannot use a hardware wallet for staking. This is a potential security risk and inconvenient for most users.
 
 
 ## How to Buy
@@ -115,3 +129,5 @@ Furthermore, any project running on the Qtum network has a vested interest in th
 
 
 ## How to Store
+
+## Conclusion
