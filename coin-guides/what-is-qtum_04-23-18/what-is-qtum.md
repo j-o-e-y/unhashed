@@ -15,7 +15,10 @@ By creating a foundation based on Bitcoin and Ethereum, Qtum is able to make use
   - Team
   - Goals
 + How Does Qtum Work?
-  - Technical
+  - Technical Info
+  - Governance
+  - Mining
+  - Partnerships
 
 ## What is Qtum?
 
@@ -100,9 +103,7 @@ In order to stake QTUMs you must leave your computer running 24/7, which is the 
 
 The Qtum project was first funded by $1 million in investments from various backers to build their testnet and initial software. 3 months later, in March 2017, with a working model, they were able to raise an additional $15.6 million in just 5 days. At this time, the Qtum project is backed by 10 investors.
 
-Furthermore, any project running on the Qtum network has a vested interest in it's well being. Although not a traditional partnership, teams running Dapps on their chain and the Qtum development team need to work together for each others benefit. Already there are some interesting Dapps live on Qtum including Bodhi and Bitclave.
-
-![live dapps pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_live-dapps.png)
+Furthermore, any project running on the Qtum network has a vested interest in the well being of the base layer. Although these are not traditional partnerships, teams running Dapps on their chain and the Qtum development team need to work together for the benefit of everyone involved. Already there are some interesting [Dapps](https://qtumeco.io/dapps) with talented developers which are building on Qtum, including [Bodhi](https://www.bodhi.network), [BitClave](https://www.bitclave.com), and [Spacechain](https://spacechain.com).
 
 
 ## Pros/Cons
