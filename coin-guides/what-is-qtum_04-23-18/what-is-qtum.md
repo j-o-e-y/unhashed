@@ -70,7 +70,7 @@ One of Qtum's intentions is to make it possible for users to not need a PC or la
 
 Qtum's main technological achievement to date is their unique [Account Abstraction Layer](https://qtum.org/en/account-abstraction-layer-overview). This layer of their software stack allows for communication between contracts that utilize Ethereum's account management system and Qtum's base layer which uses an adaption of Bitcoin's UTXO model. This is a crucial step in Qtum's vision which includes executing smart contracts and Dapps in mobile environments and at scales previously unattainable by other cryptocurrencies.
 
-![qtum software stack pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_aal.png)
+![qtum software stack pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_software-stack.png)
 
 The first benefit of the use of the UTXO model is that Qtum can use [SPV](https://bitcoin.org/en/glossary/simplified-payment-verification) for mobile clients. SPV was invented by Satoshi Nakamoto, and to date is still the most secure known way for a light client to look up balances without downloading blocks. The importance of having a quick, trustless, and secure way to check balances from any device should not be underestimated. Most cryptocurrency ecosystems lack this and many Bitcoin wallets don't even make use of this available feature. Instead they end up relying on centralized, closed source servers that at best might have some down time. At worst they can lie about the balance of your addresses, or keep you from accessing your funds in some cases where the user does not control the keys. This could cause havoc in the industries that Qtum is trying to provide tools for, and would be a deal breaker for most prospective users.
 
@@ -104,7 +104,7 @@ In order to stake QTUMs you must leave your computer running 24/7, which is the 
 
 The Qtum project was first funded by $1 million in investments from various backers to build their testnet and initial software. 3 months later, in March 2017, with a working model, they were able to raise an additional $15.6 million in just 5 days. At this time, the Qtum project is backed by 10 investors.
 
-Furthermore, any project running on the Qtum network has a vested interest in the well being of the base layer. Although these are not traditional partnerships, teams running Dapps on their chain and the Qtum development team need to work together for the benefit of everyone involved. Already there are some interesting [Dapps](https://qtumeco.io/dapps) with talented developers which are building on Qtum, including [Bodhi](https://www.bodhi.network), [BitClave](https://www.bitclave.com), and [Spacechain](https://spacechain.com).
+Furthermore, any project running on the Qtum network has a vested interest in the well being of the base layer. Although these are not traditional partnerships, teams running Dapps on their chain and the Qtum development team need to work together for the benefit of everyone involved. Already there are some interesting [Dapps](https://qtumeco.io/dapps) with talented developers which are building on Qtum including [Bodhi](https://www.bodhi.network), [BitClave](https://www.bitclave.com), and [Spacechain](https://spacechain.com).
 
 ## Pros and Cons
 
@@ -121,12 +121,13 @@ Furthermore, any project running on the Qtum network has a vested interest in th
 
 + Market saturation: there are no shortage of smart contract platforms, and even the most promising teams sometimes don't make the best product at the end of the day.
 + Proof-of-Stake hasn't been pressure tested: Qtum is the first Proof-of-Stake smart contracts, and they don't have the usage yet to claim to have been tested under extreme conditions either caused by mass adoption or an attacker.
-+ Staking machine on 24/7: while staking the QTUM needs to remain in a hot wallet on a device connected to the Qtum network, users cannot use a hardware wallet for staking. This is a potential security risk and inconvenient for most users.
-
++ Staking machine on 24/7: users staking need to keep their QTUM in a hot wallet on a device connected to the Qtum network, users cannot use a hardware wallet for staking. This is a potential security risk and inconvenient for most users.
 
 ## How to Buy
 
+QTUM coins can be bought at a plethora of [exchanges](https://coinmarketcap.com/currencies/qtum/#markets). Most exchanges only have trading pairs in BTC, ETH, or the South Korean won (KRW). So, unless you're in South Korea, you would need to first own or aquire either Bitcoin or Ether. Bitfinex, however, is the only exchange where you can buy QTUM with USD.
 
+![exchange volume pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_exchange-volumes.png)
 
 ## How to Store
 
