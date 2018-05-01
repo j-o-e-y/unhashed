@@ -1,4 +1,4 @@
-# What is Qtum
+# What is Qtum Cryptocurrency? | The Ultimate Beginners Guide
 
 ## Intro
 
@@ -33,12 +33,12 @@ Using a foundation based on Bitcoin and Ethereum, Qtum is able to make use of ma
 | | |
 |-----|--------|
 | Age | 11 mos |
-| Marketcap (current) | $1.8B
-| Price (USD) | $20.83
-| Price (BTC) | 0.0022฿
+| Marketcap (current) | $1.9B
+| Price (USD) | $21.64
+| Price (BTC) | 0.0024฿
 | All Time High | $106.88
-| ATH Date | 01-07-2018
-| Down From ATH | 80.51%
+| ATH Date | 01/07/2018
+| Down From ATH | 79.75%
 | Github Repo | https://github.com/qtumproject/qtum
 | Total Coins | 100M
 | Inflation | ~1% PoS
