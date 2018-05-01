@@ -39,13 +39,14 @@ Using a foundation based on Bitcoin and Ethereum, Qtum is able to make use of ma
 | All Time High | $106.88
 | ATH Date | 01/07/2018
 | Down From ATH | 79.75%
-| Github Repo | https://github.com/qtumproject/qtum
 | Total Coins | 100M
+| Available Supply | 88,563,720
 | Inflation | ~1% PoS
 | Block Time | 120 seconds
 | Block Size | 2MB
 | Block Reward | 4 QTUM + Fees
 | Block Explorer | https://qtum.info, https://qtumexplorer.io
+| Github Repo | https://github.com/qtumproject/qtum
 
 ### Team
 
@@ -53,7 +54,7 @@ Qtum has a [team](https://qtum.org/en/team) of 18 people worldwide. They are mad
 
 ![qtum team pic](/coin-guides/what-is-qtum_04-23-18/media_what-is-qtum/qtum_team-pic.jpg)
 
-The lead developer is [Jordan Earls](https://github.com/earlz), a self taught coder from the age of 13 with an impressive history of open source projects that includes a [review](https://github.com/Earlz/coinreviews) of over 200 cryptocurrencies. This clearly gives Jordan a deep and thorough understanding of the history of blockchain development, and also the knowledge to not repeat mistakes already made by others.
+Their lead developer is [Jordan Earls](https://github.com/earlz), a self taught coder from the age of 13 with an impressive history of open source projects that includes a [review](https://github.com/Earlz/coinreviews) of over 200 cryptocurrencies. This clearly gives Jordan a deep and thorough understanding of the history of blockchain development, and also the knowledge to not repeat mistakes already made by others.
 
 Jordan, together with a handful of other team members, comprise the vast majority of contributors to the code in their Github repo. However, since they share a code base, Qtum can pull in upgrades from Bitcoin's repo. This is exactly the point of open source development, and it's very smart of them to take advantage of the expansive development that has and continues to happen on Bitcoin's code. It's also worth mentioning that the Qtum developers always give proper attribution when they borrow code from Bitcoin. In my opinion, this says something positive about their ethics as open source developers.
 
