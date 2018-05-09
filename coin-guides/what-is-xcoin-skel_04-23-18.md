@@ -8,6 +8,7 @@ Note: This is not a strict outline to which you are expected to adhere. These ar
   - Place in the industry (if applicable)
 + How X Works
   - Technical info
+  - Governance structure
   - Transactions (if applicable)
   - Mining (if applicable)
   - Development Status/Future plans
