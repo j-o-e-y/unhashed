@@ -62,7 +62,7 @@ Two of Nano's key selling points and free and instant transactions. They're able
 
 In Ethereum, which also makes use of a DAG, nodes record all changes to every account. This creates an enormous amount of data that is retained on their blockchain, currently over 180GB. For Nano this was not an option since one of their design goals is to maintain a small footprint. Nano's solution is for each account to record every deposit and withdraw as individual blocks on their personal blockchain. The DAG is then periodically updated with only the final balance, keeping its current size to 4GB. This communication of transactions between the individual blockchains of each account has been dubbed a "[block lattice](https://github.com/nanocurrency/raiblocks/wiki/Block-lattice)."
 
-![block lattice pic](/coin-guides/what-is-nano_05-05-18/media_what-is-nano/nano_block-lattice_small.png)
+![block lattice pic](/coin-guides/what-is-nano_05-05-18/media_what-is-nano/nano_block-lattice.png)
 
 In order to keep transactions free, which Colin believes is a necessary feature, there must be something done to prevent spam. Inevitably there will be bad actors that will use free transactions as an attack vector. To defend against this Nano has implemented a small amount of proof-of-work that the sender and receiver must do for each transaction. The work is negligible and can be completed in less than two seconds on a cheap laptop. In an effort to make transactions instant, Nano wallets will do this work ahead of time in preparation of the next transaction.
 
