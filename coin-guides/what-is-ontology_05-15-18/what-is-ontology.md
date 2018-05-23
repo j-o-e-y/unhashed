@@ -8,7 +8,7 @@ Ontology was launched in November 2017 by the Chinese company Onchain. At the mo
 
 ONT tokens are still in the community distribution phase with one round completed and the second set for after mainnet launch. A little over 114 million tokens have been distributed so far. According to Ontology's distribution [plan](https://medium.com/ontologynetwork/ontologys-ont-token-distribution-and-circulating-supply-da96d5540827) there should be another 6 million given out in the second round.
 
-Although Ontology's network is still in testing, ONT tokens are already being traded on exchanges. Between March and May of 2018 ONT saw a 1000% increase in value, going from around $1 to over $11. For the past few weeks the price has been experiencing a correction with a slow and steady drop in value.
+Although Ontology's network is still in testing, ONT tokens are already being traded on exchanges. Between March and May of 2018 ONT saw a 1,000% increase in value, going from around $1 to over $11. For the past few weeks the price has been experiencing a correction with a slow and steady drop in value.
 
 ## Table of Contents
 
@@ -66,7 +66,7 @@ Ontology aims to use cryptographic methods and distributed blockchains to facili
 
 As one example, consider going to a bar and proving your age with you ID. The person that verifies your birth date could also retain other information, such as your address. If the establishment scans the ID electronically, all of your information is stored and possibly sold to third parties.
 
-It's this type of inefficiency and possible security threat that Ontology hopes to eradicate by moving ID information onto their blockchain. The Ontology and NEO teams believe their partnership is a crucial step in ushering a new era of decentralized digital business.
+It is this type of inefficiency and possible security threat that Ontology hopes to eradicate by moving ID information onto their blockchain. Ontology understands that optimizing identification verification is a crucial step in order to begin a new era of decentralized digital business.
 
 ### Place in Industry
 
