@@ -12,6 +12,21 @@ Although Ontology's network is still in testing, ONT tokens are already being tr
 
 ## Table of Contents
 
++ What is Ontology?
+  - Snapshot
+  - Team
+  - Goals
+  - Place in Industry
++ How Ontology Works
+  - Technical Info
+  - Mining/Consensus
+  - Transactions
+  - Partnerships
+  - Future Plans
++ Pros and Cons
++ How to Buy
++ How to Store
++ Conclusion
 
 ## What is Ontology?
 
