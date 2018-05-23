@@ -56,13 +56,13 @@ The founder and lead architect of Ontology is Jun Li. Li has a background in com
 
 Before coming together as Ontology, members of the core team have been a part of other successful organization such as IBM, Cisco, along with other large financial, big data, and internet companies. This large group with diverse backgrounds gives Ontology a wealth of knowledge and multiple areas of expertise.
 
-This can be seen directly when looking into their development process on [Github](https://github.com/ontio). Most teams have one or two developers that do most of the coding, and maybe a handful of others that pitch in every so often on remedial tasks. Ontology, on the other hand, has a robust set of 16 developers that account for a majority of contributions. Over the last month 26 authors have contributed code to the core software, showing a strong effort from the community as well.
+This can be seen directly when looking into their development process on [Github](https://github.com/ontio). Teams typically have one or two developers that do most of the coding, and maybe a handful of others that pitch in every so often on remedial tasks. Ontology, on the other hand, has a robust set of 16 developers that account for a majority of contributions. Over the last month 26 authors have contributed code to the core software, showing a strong effort from the community as well.
 
 ![ont github pic](media_what-is-ontology/ont_github.png)
 
 ### Goals
 
-Ontology aims to work with NEO in order to provide a distributed trust system. The team hopes to solve fundamental problems with proving identification that are a result of the archaic methods we still are still forced to use.
+Ontology aims to use cryptographic methods and distributed blockchains to facilitate proving identification in a more secure and efficient way. The team hopes to solve fundamental problems with proving identification that are a result of the old methods that we still use which were invented long before these new technologies.
 
 As one example, consider going to a bar and proving your age with you ID. The person that verifies your birth date could also retain other information, such as your address. If the establishment scans the ID electronically, all of your information is stored and possibly sold to third parties.
 
