@@ -66,7 +66,7 @@ Ontology aims to use cryptographic methods and distributed blockchains to facili
 
 As one example, consider going to a bar and proving your age with you ID. The person that verifies your birth date could also retain other information, such as your address. If the establishment scans the ID electronically, all of your information is stored and possibly sold to third parties.
 
-It is this type of inefficiency and possible security threat that Ontology hopes to eradicate by moving ID information onto their blockchain. Ontology understands that optimizing identification verification is a crucial step in order to begin a new era of decentralized digital business.
+It is this type of inefficiency, and unnecessary exposure, that Ontology hopes to eradicate by moving ID information onto their blockchain. Ontology understands that optimizing identification verification is a crucial step in order to begin a new era of decentralized digital business.
 
 ### Place in Industry
 
