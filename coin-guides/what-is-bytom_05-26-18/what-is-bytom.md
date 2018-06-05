@@ -6,7 +6,7 @@ Bytom (BTM) is an open source blockchain protocol for tokenizing digital and rea
 
 The [announcement](https://bitcointalk.org/index.php?topic=1975390.0) for Bytom was made on the day their public ICO began, June 20, 2017. In one month they were able to raise 8,400 BTC worth $22,554,000. 630M BTM coins were distributed this way, with another 777M BTM sold privately for an undisclosed amount.
 
-Bytom's max supply is 2.1B BTM; 77% of which has already been distributed in the form of ERC20 tokens on Ethereum's network. On April 24, 2018 the Bytom wallet and mainnet launched, making it possible for holders of the ERC20 placeholder to swap them for real BTM on the main network.
+Bytom's max supply is 2.1B BTM, 77% of which has already been distributed in the form of ERC20 tokens on Ethereum's network. On April 24, 2018 the Bytom wallet and mainnet launched, making it possible for holders of the ERC20 placeholder to swap them for real BTM on the main network.
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ Genesis contracts create and validate the actions of smart contracts on the netw
 
 The Shared Ledger layer is the blockchain that we're all used to. This is the historical log of all transaction data that has occurred on the Bytom Blockchain. This is the layer which keeps track of all balances and is secured with mining.
 
-### Mining/Consensus
+### Mining
 
 Bytom's mining situation is an interesting story. The founders plan was to create a Proof-of-Work algorithm that could only be profitably mined by ASICs, specifically the Antminer B3 from Bitmain. The idea behind this, according to their [Technical White Paper](https://bytom.io/wp-content/themes/freddo/book/BytomWhitePaperV1.1_En.pdf), was to give the hardware a purpose after mining was no longer feasible. Once that time came, the B3 miner could then be re-purposed for use in AI acceleration.
 
