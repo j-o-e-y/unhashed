@@ -70,7 +70,7 @@ It is this type of inefficiency, and unnecessary exposure, that Ontology hopes t
 
 ### Place in Industry
 
-As I mentioned earlier, Ontology will transferring their token from NEO's network soon. This leaves some to wonder if Ontology will end up becoming a direct competitor to NEO. Especially considering the fact that Da Hongfei is both the CEO of Onchain and the co-founder of NEO, it would be very awkward for the two chains to compete for use.
+As I mentioned earlier, Ontology will be transferring their token from NEO's network soon. This leaves some to wonder if Ontology will end up becoming a direct competitor to NEO. Especially considering the fact that Da Hongfei is both the CEO of Onchain and the co-founder of NEO, it would be very awkward for the two chains to compete for use.
 
 It is exactly because of this possible conflict of interest that NEO and Ontology signed a [memorandum of understanding](https://medium.com/ontologynetwork/ontology-and-neo-sign-mou-concerning-strategy-and-technology-e78d08279955) on May 14, 2018. The agreement is that NEO will provide the base functionality of a smart economy together with Ontology focusing on identity, ownership, and trust issues. The two separate chains will cooperate with each other and share resources when possible.
 
