@@ -12,7 +12,7 @@ To circumvent Ethereum's scaling issues, Qtum decided to use Bitcoin's base laye
 
 For efficiency and ease-of-use, Qtum has decided to use Proof of Stake mining. This means that any user with at least 1 QTUM can help to secure the network and earn rewards. Also, there is no need for the energy use and investment in mining hardware associated with Proof of Work.
 
-In an effort to reduce the probability of a contentious hard fork, the Qtum team has employed a decentralized governance model. This way any fundamental changes to the system, like increased block size or a change in gas parameters, can be voted on and executed by the community.
+In an effort to reduce the probability of contentious hard forks, the Qtum team has employed a decentralized governance model. This way any fundamental changes to the system, like increased block size or a change in gas parameters, can be voted on and executed by the community.
 
 ##ICO & Price History
 
