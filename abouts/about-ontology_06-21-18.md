@@ -14,7 +14,7 @@ The first three chains on the Trust Ecosystem will log and segregate these diffe
 
 From October 2017 to January 8, 2018, Ontology held an ICO sale of ONT as NEP-5 tokens on the NEO blockchain. An undisclosed amount of tokens were sold during this event at the rate of 1 ONT = $0.20. In January 2018 there was a first round of airdrops, giving away 1,000 tokens to each person that signed up to an email list. The second round of airdrops will occur after their mainnet launches on June 30, 2018.
 
-Out of a total of 1 billion tokens, around 115 million have been distributed through the ICO and airdrop. The plan for distributing the rest of the tokens is laid out in a [blog post](https://medium.com/ontologynetwork/ontologys-ont-token-distribution-and-circulating-supply-da96d5540827).
+Out of a total of 1 billion tokens, around 115 million have been distributed through the ICO and airdrop. The plan for distributing the rest of the tokens is laid out in [this](https://medium.com/ontologynetwork/ontologys-ont-token-distribution-and-circulating-supply-da96d5540827) blog post.
 
 Once the mainnet goes live, holders of the NEP-5 token will exchange for real ONT on Ontology's network. Shortly after that Ontology will become a two token system with ONT producing ONG (gas) for holders. These two tokens will work in the same way as many other two-token smart contract systems, including NEO. ONT will give access to governance and consensus, whereas ONG will be consumed by smart contract execution.
 
