@@ -1,6 +1,6 @@
 ##About Nano
 
-Nano (re-branded from Raiblocks) is a cryptocurrency that focuses solely on delivering a secure digital asset that has fast and feeless transactions without an environmental impact. They are able to achieve this with their groundbreaking DAG solution, called the Block Lattice, and a delegated Proof-of-Stake (dPoS) consensus mechanism.
+Nano (re-branded from Raiblocks) is a cryptocurrency that focuses solely on delivering a secure digital currency that has fast and feeless transactions without an environmental impact. They are able to achieve this with their groundbreaking DAG solution, called the Block Lattice, and a delegated Proof-of-Stake (dPoS) consensus mechanism.
 
 The original Raiblocks project began as an idea of Colin LeMahieu's in 2014, which was shortly followed by the [white paper](https://nano.org/en/whitepaper) and the first lines of code being uploaded to [Github](https://github.com/nanocurrency/raiblocks). The mainnet was launched mid 2017, and soon after many developers got to see for the first time the potential of this system. This led to an influx of new coders offering their support to the founder. One of the first things the new team did together was change the name of the project to Nano in January 2018.
 
