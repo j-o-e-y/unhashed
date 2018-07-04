@@ -1,8 +1,8 @@
 ##About Golem
 
-Golem (GNT) is a decentralized supercomputer using the computing power of users within its peer-to-peer network. Golem users can rent or sell computing power from each other using a combination of GNT (which exist as ERC20 tokens) and Ethereum smart contracts.
+Golem (GNT) is a decentralized supercomputer utilizing the computing power of users within its peer-to-peer network. Golem users can rent or sell computing power from each other using a combination of GNT (which exist as ERC20 tokens) and Ethereum smart contracts.
 
-The Golem software acts as the backbone for the decentralized market for computing power which emerges. It will provid the infrastructure and the platform to facilitate the order book, smart contract creation and fulfillment, and code execution.
+The Golem software acts as the backbone for the decentralized market for computing power which emerges. It will provide the infrastructure and the platform to facilitate the order book, smart contract creation and fulfillment, and code execution.
 
 Golem was founded by Julian Zawistowski, an economist by trade, in February 2014. Julian has now moved into the CEO position. He has a [team](https://golem.network/team/) of developers which are building the project on [Github](https://github.com/golemfactory/golem) under an open source license. The official release of the software, and the beginning of Golem's network, came in August 2016.
 
