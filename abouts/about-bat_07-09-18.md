@@ -1,4 +1,4 @@
-#About Basic Attention Token
+## About Basic Attention Token
 
 Basic Attention Token (BAT) is an open [source](https://github.com/brave-intl/bat-ledger) advertising platform for digital content which uses an ERC-20 token as its currency. Advertisers, content creators, and end users can each exchange BAT in a way which is meant to create a self sustaining economy while maintaining user privacy.
 
@@ -16,7 +16,7 @@ The publishers can use BAT earned through hosting ads to buy their own ad space 
 
 Even though Brave is the only application to use the BAT platform right now, BAT is not restricted to it. The team is working on getting more applications on board, which is a goal on their [roadmap](https://basicattentiontoken.org/bat-roadmap-1-0/) for the end of 2018. The BAT team envision applications such as other browsers, chat/messaging apps, games, TVs, and more using their platform.
 
-##ICO & Price History
+## ICO & Price History
 
 BAT held an ICO on May 31, 2017, which sold 1B tokens of the total 1.5B supply at a price of $0.03 each. In 30 seconds all of the tokens were sold, leaving 500M to the founder to fund further development and promote growth.
 

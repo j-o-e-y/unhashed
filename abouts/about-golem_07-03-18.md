@@ -1,4 +1,4 @@
-##About Golem
+## About Golem
 
 Golem (GNT) is a decentralized supercomputer utilizing the computing power of users within its peer-to-peer network. Golem users can rent or sell computing power from each other using a combination of GNT (which exist as ERC20 tokens) and Ethereum smart contracts.
 
@@ -16,7 +16,7 @@ The requester now uses an [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_Fi
 
 When the completed work has been verified, either by the requester or other nodes that received proof, the smart contract pays out to the provider. If everything goes as planned both parties get an increase to their reputation scores.
 
-##ICO & Price History
+## ICO & Price History
 
 The 1B GNT total supply was 100% pre-mined by the Golem team. On November 13, 2016 they held a crowdsale ICO in which they sold 820M GNT tokens at a rate of $0.01 each for a total of $8.2M. The remaining 12% of the supply is held by the Golem team to fund future development.
 

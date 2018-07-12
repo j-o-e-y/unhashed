@@ -1,4 +1,4 @@
-##About Qtum
+## About Qtum
 
 Qtum is a platform for smart contracts and token issuance, as well as a cryptocurrency. Their goal is to combine Bitcoin's blockchain, Ethereum's smart contracts, Proof-of-Stake consensus, and a decentralized governance model in order to provide tools for global industries that offer scalability, security, and efficiency.
 
@@ -14,7 +14,7 @@ For efficiency and ease-of-use, Qtum has decided to use Proof of Stake mining. T
 
 In an effort to reduce the probability of contentious hard forks, the Qtum team has employed a decentralized governance model. This way any fundamental changes to the system, like increased block size or a change in gas parameters, can be voted on and executed by the community.
 
-##ICO & Price History
+## ICO & Price History
 
 Qtum held an ICO from March 12 to March 17, 2017. During that time 51,000,000 of the total 100,000,000 tokens were sold at $0.30 each for a total earnings of $15,000,000. The remaining 49% of the supply will be distributed over the next 4 years as detailed in [this](https://blog.qtum.org/qtum-circulating-supply-updated-791039236da0) blog post.
 

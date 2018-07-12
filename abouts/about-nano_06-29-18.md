@@ -1,4 +1,4 @@
-##About Nano
+## About Nano
 
 Nano (formerly Raiblocks) is a cryptocurrency that focuses solely on delivering a secure digital currency that has fast and feeless transactions without an environmental impact. They are able to achieve this with their groundbreaking DAG solution, called the Block Lattice, and a delegated Proof-of-Stake (dPoS) consensus mechanism.
 
@@ -12,7 +12,7 @@ To accomplish their goal of feeless transactions, the team had to first come up 
 
 Lastly, in order to protect against double spending and come to consensus on the global ledger, Nano uses a dPoS system. This is similar to a typical Proof-of-Stake system, where nodes vote on consensus and the weight of their vote is determined by coins staked. However, in Nano's system users can delegate their votes to representative nodes of their choice.
 
-##ICO & Price History
+## ICO & Price History
 
 Nano was distributed for free, at a rate of 17,000 per hour, via online faucets that used CAPTCHAs as a limiter. The faucets began in early 2016 and ran through October 2017. Out of a total supply of just over 340M, 133M (39%) were distributed via the faucet, 7M was kept in a fund to pay developers, and the remaining 207M were destroyed.
 

@@ -1,4 +1,4 @@
-##About Bitcoin Private
+## About Bitcoin Private
 
 Bitcoin Private (BTCP) is a cryptocurrency that is forked from ZClassic's (ZCL) code, which offers the optional privacy of shielded addresses. Transactions made between shielded addresses utilize cutting edge cryptography to hide the sender, receiver, and amounts on the blockchain.
 
@@ -10,7 +10,7 @@ Normal addresses act exactly the same as Bitcoin's addresses with completely tra
 
 On the roadmap for Bitcoin Private is rebasing the part of their code that was passed down from Bitcoin. This will bring them the advantages of some of Bitcoin's new technologies such as Segwit and the Lightning Network. In addition to bug fixes and scaling solutions, the team also plans on increasing privacy by integrating Tor and making shielded addresses and transactions default.
 
-##Coin Distribution & Price History
+## Coin Distribution & Price History
 
 Bitcoin Private was the first so-called "merge-fork" coin. This means that while the code was forked from the ZClassic, the original coin distribution set was taken from both Bitcoin and Zclassic. This was done by taking a snapshot of the BTC and ZCL blockchain on February 28, 2018.
 

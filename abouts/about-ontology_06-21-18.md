@@ -1,4 +1,4 @@
-##About Ontology
+## About Ontology
 
 Ontology aims to be a platform for decentralized trust and identity management that utilizes smart contracts and multiple blockchains. The Ontology team will design the infrastructure, modules, protocols, and applications for providing a distributed identity framework. Ultimately, they envision that individuals and third party businesses with compliance requirements will find the most utility from their system.
 
@@ -10,7 +10,7 @@ The user facing half of the project is referred to as the Trust Ecosystem. This 
 
 The first three chains on the Trust Ecosystem will log and segregate these different categories of physical things. The final chain in the Trust Ecosystem aggregates the information from the other three chains and will provide a convenient method for searching and retrieving this data.
 
-##ICO & Price History
+## ICO & Price History
 
 From October 2017 to January 8, 2018, Ontology held an ICO sale of ONT as NEP-5 tokens on the NEO blockchain. An undisclosed amount of tokens were sold during this event at the rate of 1 ONT = $0.20. In January 2018 there was a first round of airdrops, giving away 1,000 tokens to each person that signed up to an email list. The second round of airdrops will occur after their mainnet launches on June 30, 2018.
 

@@ -1,4 +1,4 @@
-##About Bytom
+## About Bytom
 
 Bytom is a blockchain protocol that can be used for creating and interacting with tokenized representations of physical assets and smart contracts. Any type of information, such as currencies, debts, securities, or dividends, can be digitized and interacted with on Bytom's chain.
 
@@ -12,7 +12,7 @@ The final piece of the Bytom architecture is the Application Layer. This is wher
 
 Bytom has employed an autonomous governance structure to oversee the short and long term development, as outlined in their [Economic White Paper](https://medium.com/@Bytom_Official/bytom-economic-white-paper-e027ac5ac139). There are various committees and a foundation that are all tasked with preserving the rights of invested parties, and at the same time checking and balancing each other.
 
-##ICO & Price History
+## ICO & Price History
 
 Bytom had an ICO which began on June 20, 2017 and ran through July 20, 2017. In that month 630M BTM tokens were sold in the public sale for 8,400 BTC, which was worth a little over $22M at that time. Another 777M BTM tokens were also sold privately during this same period for an unknown amount. The private and public pre-sales account for 77% of the total 2.1B BTM supply.
 
