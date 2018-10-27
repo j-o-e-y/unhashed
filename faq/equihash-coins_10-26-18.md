@@ -1,16 +1,16 @@
 # Equihash Coins
 
-Bitcoin, and many other cryptocurrencies, rely on Proof-of-Work mining to secure their networks from double-spending in a censorship resistant way. In order to maintain censorship resistance, the individual miners must be sufficiently decentralized.
+Most cryptocurrencies rely on Proof-of-Work mining to secure their networks from double-spending in a censorship resistant way. In order to maintain censorship resistance, the individual miners must be sufficiently decentralized.
 
-Early on it was apparent that ASICs were leading to centralization of mining. There were many attempts to create algorithms that would be "impossible" to implement on specialized hardware in response. Litecoin is one such example with their scrypt algorithm.
+In the early days of cryptocurrency it became apparent that ASICs were leading to centralization of mining. There were many attempts to create algorithms that would be "impossible" to implement on specialized hardware in response. Litecoin is one such example of this first wave of ASIC resistance with their Scrypt algorithm.
 
-However, by 2014 almost every one of these algorithms had an ASIC built for it that was orders of magnitude more powerful than other hardware on the network. It  wasn't long before most coins were in threat of centralization and the trend was only getting worse.
+However, by 2014 almost every one of these algorithms had an ASIC built for it that was orders of magnitude more powerful than any other hardware on the network. It  wasn't long before most coins were in threat of mining centralization and the trend was getting worse.
 
-This culmination of events is what inspired a couple of scientists from the University of Luxembourg to see what they could do to help the situation. The result was the creation of the Equihash algorithm.
+This culmination of events is what inspired a couple of scientists from Luxembourg to look into the problem themselves and see if they could offer any solution. The result was the creation of the Equihash algorithm.
 
 ## What is Equihash?
 
-Equihash is a Proof-of-Work mining algorithm that was invented by Alex Biryukov and Dmitry Khovratovich from the University of Luxembourg's Interdisciplinary Centre for Security, Reliability and Trust (SnT). They sought to create a memory intensive algorithm that would be impossible to implement in an ASIC. This, it was thought, would foster decentralization of miners and increase network security.
+Equihash is a Proof-of-Work mining algorithm that was invented by Alex Biryukov and Dmitry Khovratovich from the University of Luxembourg's Interdisciplinary Centre for Security, Reliability and Trust (SnT). They sought to create a memory intensive algorithm that would be impossible to implement in an ASIC. With miners using GPUs instead, this would lower entry costs for new miners and foster decentralization of both miners and manufacturers of the hardware.
 
 Equihash was first introduced in early 2016 at a symposium on system security in San Diego. ZCash was the first cryptocurrency to implement it in April of that same year. Their team stated that they chose this algorithm for its efficiency, security, and most of all ASIC resistance.
 
@@ -18,7 +18,7 @@ Two of the Zcash founders, Zooko Wilcox and Jack Grigg, explained in a [blog pos
 
 >Equihash is a memory-oriented Proof-of-Work, which means how much mining you can do is mostly determined by how much RAM you have. We think it is unlikely that anyone will be able to build cost-effective custom hardware (ASICs) for mining in the foreseeable future.
 
-In spite of all the effort, Equihash ultimately has failed in its purpose. ASICs hit the market in May 2018 and are now dominating most Equihash coins too. Some coins have decided to tweak the algorithm to fend off ASICs, even though they may be unavoidable in the end.
+In spite of all the effort and intelligence that went into creating Equihash, it has ultimately failed in its original form. ASICs hit the market in May 2018 and are now dominating some Equihash coins. Other coins have decided to tweak the algorithm to fend off ASICs, though they may be unavoidable in the end.
 
 ## Coins Using Equihash
 (ordered by market cap)
@@ -34,7 +34,6 @@ In spite of all the effort, Equihash ultimately has failed in its purpose. ASICs
 + BitcoinZ (BTCZ)
 + Zero (ZER)
 + Hush (HUSH)
-+ Bitgem (BTG)
 
 1. [ZCash](https://z.cash)
 
@@ -50,7 +49,7 @@ Komodo is a fork of ZCash that was originally intended to be a cryptocurrency pl
 
 4. [ZenCash](https://zencash.com/)
 
-ZenCash forked from ZClassic on May 18th, 2017. They have since rebranded to Horizen but maintain the original ticker symbol (ZEN). The goal of the project is to deliver everything that Ethereum can do, but with strong privacy. Deriving from ZClassic (itself a fork of ZCash), ZenCash has inherited the zk-snarks privacy features. Additionally, ZenCash uses "Secure Nodes" to offer encrypted communication between peers.
+ZenCash forked from ZClassic on May 18, 2017. They have since rebranded to Horizen but maintain the original ticker symbol (ZEN). The goal of the project is to deliver everything that Ethereum can do, but with strong privacy. Deriving from ZClassic (itself a fork of ZCash), ZenCash has inherited the zk-snarks privacy features. Additionally, ZenCash uses "Secure Nodes" to offer encrypted communication between peers.
 
 5. [Bitcoin Private](https://btcprivate.org/)
 
@@ -64,10 +63,14 @@ ZClassic was the first fork of ZCash, beginning in late 2016. The project's aim 
 
 Zelcash is a combination of ZCash and Ethereum, providing zk-snark privacy as well as DAPP support. The coin uses a combination of Proof-of-Work to secure the blockchain and Proof-of-Stake for DAPP security. The aim of the project is to foster distributed development.
 
-8. [Zero](https://zerocurrency.io/)
+8. [BitcoinZ](https://btcz.rocks/)
+
+BitcoinZ was created by an anonymous developer that forked the ZCash codebase. Their blockchain launched on September 9, 2017 with no premine or ICO. The goal of the team is to be a community driven coin that has the ZClassic spirit, ZCash core, and Bitcoin fundamentals. The notable changes they have made to the original code was the addition of bigger blocks and tweaking the algorithm to protect from ASICs.
+
+9. [Zero](https://zerocurrency.io/)
 
 Zero forked from ZCash on February 19, 2017. They've made some minor adjustments to the mining algorithm in an effort to resist ASIC production and removed the "Founder's Reward". In the future the team plans to implement staking and reduced block times.
 
-9. [Hush](https://myhush.org/)
+10. [Hush](https://myhush.org/)
 
 Hush is a fork of ZCash which has removed the "Founder's Reward". The developers added Tor to the protocol to protect users IP addresses, and a private messaging system and list system. There's also a Counterparty port for Hush which allows users to create and issue assets.
