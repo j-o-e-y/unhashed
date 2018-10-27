@@ -10,7 +10,7 @@ This culmination of events is what inspired a couple of scientists from Luxembou
 
 ## What is Equihash?
 
-Equihash is a Proof-of-Work mining algorithm that was invented by Alex Biryukov and Dmitry Khovratovich from the University of Luxembourg's Interdisciplinary Centre for Security, Reliability and Trust (SnT). They sought to create a memory intensive algorithm that would be impossible to implement in an ASIC. This would lower the entry costs for new miners, foster decentralization of miners, and fragment the manufacturers of the hardware.
+Equihash is a Proof-of-Work mining algorithm that was invented by Alex Biryukov and Dmitry Khovratovich from the University of Luxembourg's Interdisciplinary Centre for Security, Reliability and Trust (SnT). They sought to create a memory intensive algorithm that would be impossible to implement in an ASIC. This would lower the entry costs for new miners, foster decentralization of miners, and fragment manufacturers of the hardware.
 
 Equihash was first introduced in early 2016 at a symposium on system security in San Diego. ZCash was the first cryptocurrency to implement it in April of that same year. Their team stated that they chose this algorithm for its efficiency, security, and most of all ASIC resistance.
 
