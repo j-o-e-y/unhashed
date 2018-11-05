@@ -20,8 +20,8 @@ Many ASIC resistant algorithms were created around this time, and almost all of 
 + CrowdCoin (CRC)
 + Desire (DSR)
 + Dinero (DIN)
-+ GoByte (GBX)
 + Feathercoin (FTC)
++ GoByte (GBX)
 + Innova (INN)
 + Orbitcoin (ORB)
 + Phoenixcoin (PXC)
@@ -40,13 +40,13 @@ Desire hopes to be a fast, optionally anonymous cryptocurrency that was forked f
 
 The Dinero currency is a fork of Dash which aspires to be a private, low fee, and ASIC resistant cryptocurrency. The founders held a presale and ICO between March and May of 2018, wherein 550,000 tokens were sold for about $55M. Another of the goals of the project is to democratically decide how funds are allocated. Therefore maternodes in the Dinero network not only provide mixing for private sends, but also vote on how to spend funds.
 
-4. [GoByte](https://www.gobyte.network/)
-
-GoByte was launched in November 2017, and began by forking Dash's code. Previous to launch the team had premined an undisclosed amount of tokens and held ICO where they raised an estimated $27M. Technologically the coin is not much different from Dash, offering both instant sends and private transactions via masternodes. The only substantial difference is in the fact that GoByte has remained ASIC resistant by using Neoscrypt.
-
-5. [Feathercoin](https://feathercoin.com/)
+4. [Feathercoin](https://feathercoin.com/)
 
 The Feathercoin project began in April 2013 by forking the Litecoin code. The aspiration was to experiment with a faster block time, a new difficulty adjustment algorithm, and ASIC resistance. Feathercoin was the second coin to implement Neoscrypt after Phoenixcoin. The lead developer and creator, Peter Bushnell, left the project in 2014. He returned in late 2017 and added features such as Lightning and BarterDEX.
+
+5. [GoByte](https://www.gobyte.network/)
+
+GoByte was launched in November 2017, and began by forking Dash's code. Previous to launch the team had premined an undisclosed amount of tokens and held ICO where they raised an estimated $27M. Technologically the coin is not much different from Dash, offering both instant sends and private transactions via masternodes. The only substantial difference is in the fact that GoByte has remained ASIC resistant by using Neoscrypt.
 
 6. [Innova](https://innovacoin.info)
 
@@ -60,7 +60,7 @@ Orbitcoin is a code fork of Peercoin that was launched in December 2013 by Neosc
 
 Phoenixcoin was the first Neoscrypt coin launched shortly before the algorithm in May 2013 by John Doering, making it one of the oldest altcoins in existence. The original code was forked from Litecoin to experiment with ASIC resistance. Phoenixcoin was used as the main payment method on PhenixPoker.com while the site existed. John hoped that the project would be a community driven effort, but got off to a bad start by attempting to premine 1,000,000 coins in secret.
 
-9. [Qbic](http://qbic.io/)
+9. [Qbic](https://qbic.io/)
 
 Qbic launched in January 2018 by forking Dash's code and premining 1.5% of the supply. The coin has implemented masternodes for staking, privacy, and irreversible instant transactions. There is some [speculation](https://bitcointalk.org/index.php?topic=2737347.msg27991314#msg27991314) that this coin was created by the same entity that launched GoByte, but it may just be that the announcement was poorly copy/pasted from theirs.
 
