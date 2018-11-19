@@ -1,4 +1,4 @@
-# Coin Guide: Basic Attention Token (BAT)?
+# Coin Guide: Basic Attention Token (BAT)
 ## Intro
 
 The Basic Attention Token is an ERC20 token seeking to disrupt and decentralize online advertising by removing middlemen from the equation. Instead the BAT team would like to see advertisers, publishers, and end users paying each other directly in a more useful and egalitarian way.
@@ -12,12 +12,12 @@ To fix this problem BAT is directly integrated into the [Brave](https://brave.co
 ## Table of Contents
 
 - What is BAT
-  - Team members
-  - What they're trying to accomplish
+  - Team Members
+  - What They're Trying to Accomplish
 - How BAT Works
-  - Technical info
-  - Development status and future plans
-- ICO & Token Supply
+  - Technical Info
+  - Development Status and Future Plans
+  - ICO & Token Supply
 - How to Buy
 - How to Store
 - Conclusion
@@ -33,7 +33,7 @@ Following in the mission to respect users privacy, Yan Zhu was added to the team
 
 It is worth noting that the group assembled here is much more renowned than a typical cryptocurrency team. Almost every individual among them has a past worth mentioning. I'm not sure what has attracted all of this talent to one place, but it's a good sign that so many well respected people are clamoring to work here.
 
-### What they’re trying to accomplish
+### What They’re Trying to Accomplish
 
 Brave and BAT are trying to revolutionize the way that content is monetized and advertisements are delivered. They want to present these to users in a way which is intuitive and respectful of privacy.
 
@@ -61,7 +61,7 @@ Users can opt to not be shown any ads at all by using BAT to pay Brave. While th
 
 The more that people are receiving BAT for creating content and watching ads, they will want to use it for something. The most obvious thing is exchange it on the market, but what the creators were hoping for was to create a closed economy. They hope that, once popular enough, even the products in the ads will be sold in BAT. This would greatly limit the necessity of exchange listings and promote further growth of the economy within the browser.
 
-### Development status and future plans
+### Development Status and Future Plans
 
 As outlined in their [roadmap](https://basicattentiontoken.org/bat-roadmap-1-0/), over the remainder of 2018 the BAT team intend to continue improving their attention measuring algorithms and the accuracy of their targeted ads. Another goal is to get BAT integrated into other platforms such as other web browsers, communication, and social media apps.
 
